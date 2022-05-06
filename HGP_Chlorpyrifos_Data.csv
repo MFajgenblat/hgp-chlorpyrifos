@@ -1,0 +1,1741 @@
+Day,Replicate,Species,Biomass
+1,CPF-M1.1,Daphnia galeata,0.059
+1,CPF-M1.1,Daphnia magna,0.164
+1,CPF-M1.1,Daphnia pulicaria,0.044
+1,CPF-M1.1,Scapholeberis mucronata,0.012
+1,CPF-M1.2,Daphnia galeata,0.059
+1,CPF-M1.2,Daphnia magna,0.164
+1,CPF-M1.2,Daphnia pulicaria,0.044
+1,CPF-M1.2,Scapholeberis mucronata,0.012
+1,CPF-M1.3,Daphnia galeata,0.059
+1,CPF-M1.3,Daphnia magna,0.164
+1,CPF-M1.3,Daphnia pulicaria,0.044
+1,CPF-M1.3,Scapholeberis mucronata,0.012
+1,CPF-M2.1,Daphnia galeata,0.059
+1,CPF-M2.1,Daphnia magna,0.164
+1,CPF-M2.1,Daphnia pulicaria,0.044
+1,CPF-M2.1,Scapholeberis mucronata,0.012
+1,CPF-M2.2,Daphnia galeata,0.059
+1,CPF-M2.2,Daphnia magna,0.164
+1,CPF-M2.2,Daphnia pulicaria,0.044
+1,CPF-M2.2,Scapholeberis mucronata,0.012
+1,CPF-M2.3,Daphnia galeata,0.059
+1,CPF-M2.3,Daphnia magna,0.164
+1,CPF-M2.3,Daphnia pulicaria,0.044
+1,CPF-M2.3,Scapholeberis mucronata,0.012
+1,CPF-M3.1,Daphnia galeata,0.059
+1,CPF-M3.1,Daphnia magna,0.164
+1,CPF-M3.1,Daphnia pulicaria,0.044
+1,CPF-M3.1,Scapholeberis mucronata,0.012
+1,CPF-M3.2,Daphnia galeata,0.059
+1,CPF-M3.2,Daphnia magna,0.164
+1,CPF-M3.2,Daphnia pulicaria,0.044
+1,CPF-M3.2,Scapholeberis mucronata,0.012
+1,CPF-M3.3,Daphnia galeata,0.059
+1,CPF-M3.3,Daphnia magna,0.164
+1,CPF-M3.3,Daphnia pulicaria,0.044
+1,CPF-M3.3,Scapholeberis mucronata,0.012
+1,CPF-M4.1,Daphnia galeata,0.059
+1,CPF-M4.1,Daphnia magna,0.164
+1,CPF-M4.1,Daphnia pulicaria,0.044
+1,CPF-M4.1,Scapholeberis mucronata,0.012
+1,CPF-M4.2,Daphnia galeata,0.059
+1,CPF-M4.2,Daphnia magna,0.164
+1,CPF-M4.2,Daphnia pulicaria,0.044
+1,CPF-M4.2,Scapholeberis mucronata,0.012
+1,CPF-M4.3,Daphnia galeata,0.059
+1,CPF-M4.3,Daphnia magna,0.164
+1,CPF-M4.3,Daphnia pulicaria,0.044
+1,CPF-M4.3,Scapholeberis mucronata,0.012
+1,CPF-M5.1,Daphnia galeata,0.059
+1,CPF-M5.1,Daphnia magna,0.164
+1,CPF-M5.1,Daphnia pulicaria,0.044
+1,CPF-M5.1,Scapholeberis mucronata,0.012
+1,CPF-M5.2,Daphnia galeata,0.059
+1,CPF-M5.2,Daphnia magna,0.164
+1,CPF-M5.2,Daphnia pulicaria,0.044
+1,CPF-M5.2,Scapholeberis mucronata,0.012
+1,CPF-M5.3,Daphnia galeata,0.059
+1,CPF-M5.3,Daphnia magna,0.164
+1,CPF-M5.3,Daphnia pulicaria,0.044
+1,CPF-M5.3,Scapholeberis mucronata,0.012
+1,CTL-M1.1,Daphnia galeata,0.059
+1,CTL-M1.1,Daphnia magna,0.164
+1,CTL-M1.1,Daphnia pulicaria,0.044
+1,CTL-M1.1,Scapholeberis mucronata,0.012
+1,CTL-M1.2,Daphnia galeata,0.059
+1,CTL-M1.2,Daphnia magna,0.164
+1,CTL-M1.2,Daphnia pulicaria,0.044
+1,CTL-M1.2,Scapholeberis mucronata,0.012
+1,CTL-M1.3,Daphnia galeata,0.059
+1,CTL-M1.3,Daphnia magna,0.164
+1,CTL-M1.3,Daphnia pulicaria,0.044
+1,CTL-M1.3,Scapholeberis mucronata,0.012
+1,CTL-M2.1,Daphnia galeata,0.059
+1,CTL-M2.1,Daphnia magna,0.164
+1,CTL-M2.1,Daphnia pulicaria,0.044
+1,CTL-M2.1,Scapholeberis mucronata,0.012
+1,CTL-M2.2,Daphnia galeata,0.059
+1,CTL-M2.2,Daphnia magna,0.164
+1,CTL-M2.2,Daphnia pulicaria,0.044
+1,CTL-M2.2,Scapholeberis mucronata,0.012
+1,CTL-M2.3,Daphnia galeata,0.059
+1,CTL-M2.3,Daphnia magna,0.164
+1,CTL-M2.3,Daphnia pulicaria,0.044
+1,CTL-M2.3,Scapholeberis mucronata,0.012
+1,CTL-M3.1,Daphnia galeata,0.059
+1,CTL-M3.1,Daphnia magna,0.164
+1,CTL-M3.1,Daphnia pulicaria,0.044
+1,CTL-M3.1,Scapholeberis mucronata,0.012
+1,CTL-M3.2,Daphnia galeata,0.059
+1,CTL-M3.2,Daphnia magna,0.164
+1,CTL-M3.2,Daphnia pulicaria,0.044
+1,CTL-M3.2,Scapholeberis mucronata,0.012
+1,CTL-M3.3,Daphnia galeata,0.059
+1,CTL-M3.3,Daphnia magna,0.164
+1,CTL-M3.3,Daphnia pulicaria,0.044
+1,CTL-M3.3,Scapholeberis mucronata,0.012
+1,CTL-M4.1,Daphnia galeata,0.059
+1,CTL-M4.1,Daphnia magna,0.164
+1,CTL-M4.1,Daphnia pulicaria,0.044
+1,CTL-M4.1,Scapholeberis mucronata,0.012
+1,CTL-M4.2,Daphnia galeata,0.059
+1,CTL-M4.2,Daphnia magna,0.164
+1,CTL-M4.2,Daphnia pulicaria,0.044
+1,CTL-M4.2,Scapholeberis mucronata,0.012
+1,CTL-M4.3,Daphnia galeata,0.059
+1,CTL-M4.3,Daphnia magna,0.164
+1,CTL-M4.3,Daphnia pulicaria,0.044
+1,CTL-M4.3,Scapholeberis mucronata,0.012
+1,CTL-M5.1,Daphnia galeata,0.059
+1,CTL-M5.1,Daphnia magna,0.164
+1,CTL-M5.1,Daphnia pulicaria,0.044
+1,CTL-M5.1,Scapholeberis mucronata,0.012
+1,CTL-M5.2,Daphnia galeata,0.059
+1,CTL-M5.2,Daphnia magna,0.164
+1,CTL-M5.2,Daphnia pulicaria,0.044
+1,CTL-M5.2,Scapholeberis mucronata,0.012
+1,CTL-M5.3,Daphnia galeata,0.059
+1,CTL-M5.3,Daphnia magna,0.164
+1,CTL-M5.3,Daphnia pulicaria,0.044
+1,CTL-M5.3,Scapholeberis mucronata,0.012
+10,CPF-M1.1,Chlorophyll-a,480.701205
+10,CPF-M1.1,Daphnia galeata,2.079
+10,CPF-M1.1,Daphnia magna,6.0564
+10,CPF-M1.1,Daphnia pulicaria,1.85
+10,CPF-M1.1,Phycocyanin,72.85995
+10,CPF-M1.1,Scapholeberis mucronata,0
+10,CPF-M1.2,Chlorophyll-a,135.09011
+10,CPF-M1.2,Daphnia galeata,0.847
+10,CPF-M1.2,Daphnia magna,7.7868
+10,CPF-M1.2,Daphnia pulicaria,1.54
+10,CPF-M1.2,Phycocyanin,18.975575
+10,CPF-M1.2,Scapholeberis mucronata,0
+10,CPF-M1.3,Chlorophyll-a,669.17082
+10,CPF-M1.3,Daphnia galeata,1.001
+10,CPF-M1.3,Daphnia magna,2.5956
+10,CPF-M1.3,Daphnia pulicaria,1.23
+10,CPF-M1.3,Phycocyanin,117.6982
+10,CPF-M1.3,Scapholeberis mucronata,0.041643716
+10,CPF-M2.1,Chlorophyll-a,319.998445
+10,CPF-M2.1,Daphnia galeata,1.771
+10,CPF-M2.1,Daphnia magna,1.7304
+10,CPF-M2.1,Daphnia pulicaria,0.85
+10,CPF-M2.1,Phycocyanin,46.04945
+10,CPF-M2.1,Scapholeberis mucronata,0.187396721
+10,CPF-M2.2,Chlorophyll-a,483.483455
+10,CPF-M2.2,Daphnia galeata,1.848
+10,CPF-M2.2,Daphnia magna,4.326
+10,CPF-M2.2,Daphnia pulicaria,1.08
+10,CPF-M2.2,Phycocyanin,28.5162
+10,CPF-M2.2,Scapholeberis mucronata,0.145753005
+10,CPF-M2.3,Chlorophyll-a,305.196875
+10,CPF-M2.3,Daphnia galeata,0.847
+10,CPF-M2.3,Daphnia magna,6.9216
+10,CPF-M2.3,Daphnia pulicaria,0.46
+10,CPF-M2.3,Phycocyanin,1.0994
+10,CPF-M2.3,Scapholeberis mucronata,0.156163934
+10,CPF-M3.1,Chlorophyll-a,170.090815
+10,CPF-M3.1,Daphnia galeata,1.078
+10,CPF-M3.1,Daphnia magna,4.326
+10,CPF-M3.1,Daphnia pulicaria,0.54
+10,CPF-M3.1,Phycocyanin,68.79645
+10,CPF-M3.1,Scapholeberis mucronata,0.281095081
+10,CPF-M3.2,Chlorophyll-a,511.417245
+10,CPF-M3.2,Daphnia galeata,1.463
+10,CPF-M3.2,Daphnia magna,0.8652
+10,CPF-M3.2,Daphnia pulicaria,0.92
+10,CPF-M3.2,Phycocyanin,109.8507
+10,CPF-M3.2,Scapholeberis mucronata,0.176985792
+10,CPF-M3.3,Chlorophyll-a,333.96534
+10,CPF-M3.3,Daphnia galeata,1.54
+10,CPF-M3.3,Daphnia magna,0
+10,CPF-M3.3,Daphnia pulicaria,1.31
+10,CPF-M3.3,Phycocyanin,101.75595
+10,CPF-M3.3,Scapholeberis mucronata,0.364382513
+10,CPF-M4.1,Chlorophyll-a,526.441395
+10,CPF-M4.1,Daphnia galeata,1.925
+10,CPF-M4.1,Daphnia magna,3.4608
+10,CPF-M4.1,Daphnia pulicaria,1.39
+10,CPF-M4.1,Phycocyanin,9.029675
+10,CPF-M4.1,Scapholeberis mucronata,0.020821858
+10,CPF-M4.2,Chlorophyll-a,166.02873
+10,CPF-M4.2,Daphnia galeata,2.002
+10,CPF-M4.2,Daphnia magna,5.1912
+10,CPF-M4.2,Daphnia pulicaria,1.31
+10,CPF-M4.2,Phycocyanin,47.25345
+10,CPF-M4.2,Scapholeberis mucronata,0.083287431
+10,CPF-M4.3,Chlorophyll-a,356.946725
+10,CPF-M4.3,Daphnia galeata,2.233
+10,CPF-M4.3,Daphnia magna,0.8652
+10,CPF-M4.3,Daphnia pulicaria,0.85
+10,CPF-M4.3,Phycocyanin,90.91995
+10,CPF-M4.3,Scapholeberis mucronata,0.020821858
+10,CPF-M5.1,Chlorophyll-a,62.52903
+10,CPF-M5.1,Daphnia galeata,1.309
+10,CPF-M5.1,Daphnia magna,1.7304
+10,CPF-M5.1,Daphnia pulicaria,0.92
+10,CPF-M5.1,Phycocyanin,5.634825
+10,CPF-M5.1,Scapholeberis mucronata,0.249862294
+10,CPF-M5.2,Chlorophyll-a,437.46504
+10,CPF-M5.2,Daphnia galeata,1.001
+10,CPF-M5.2,Daphnia magna,0.8652
+10,CPF-M5.2,Daphnia pulicaria,0.08
+10,CPF-M5.2,Phycocyanin,0
+10,CPF-M5.2,Scapholeberis mucronata,0.145753005
+10,CPF-M5.3,Chlorophyll-a,119.95467
+10,CPF-M5.3,Daphnia galeata,1.463
+10,CPF-M5.3,Daphnia magna,1.7304
+10,CPF-M5.3,Daphnia pulicaria,0.46
+10,CPF-M5.3,Phycocyanin,34.95545
+10,CPF-M5.3,Scapholeberis mucronata,0.208218579
+10,CTL-M1.1,Chlorophyll-a,76.495925
+10,CTL-M1.1,Daphnia galeata,1.771
+10,CTL-M1.1,Daphnia magna,6.9216
+10,CTL-M1.1,Daphnia pulicaria,1.85
+10,CTL-M1.1,Phycocyanin,45.21095
+10,CTL-M1.1,Scapholeberis mucronata,0.135342076
+10,CTL-M1.2,Chlorophyll-a,21.9705
+10,CTL-M1.2,Daphnia galeata,1.54
+10,CTL-M1.2,Daphnia magna,5.1912
+10,CTL-M1.2,Daphnia pulicaria,1.08
+10,CTL-M1.2,Phycocyanin,0
+10,CTL-M1.2,Scapholeberis mucronata,0.114520218
+10,CTL-M1.3,Chlorophyll-a,362.288645
+10,CTL-M1.3,Daphnia galeata,1.617
+10,CTL-M1.3,Daphnia magna,5.1912
+10,CTL-M1.3,Daphnia pulicaria,1.54
+10,CTL-M1.3,Phycocyanin,73.6877
+10,CTL-M1.3,Scapholeberis mucronata,0.114520218
+10,CTL-M2.1,Chlorophyll-a,42.61385
+10,CTL-M2.1,Daphnia galeata,2.387
+10,CTL-M2.1,Daphnia magna,2.5956
+10,CTL-M2.1,Daphnia pulicaria,1.46
+10,CTL-M2.1,Phycocyanin,0
+10,CTL-M2.1,Scapholeberis mucronata,0.208218579
+10,CTL-M2.2,Chlorophyll-a,92.744265
+10,CTL-M2.2,Daphnia galeata,2.695
+10,CTL-M2.2,Daphnia magna,2.5956
+10,CTL-M2.2,Daphnia pulicaria,0.69
+10,CTL-M2.2,Phycocyanin,0
+10,CTL-M2.2,Scapholeberis mucronata,0.239451365
+10,CTL-M2.3,Chlorophyll-a,225.401945
+10,CTL-M2.3,Daphnia galeata,1.54
+10,CTL-M2.3,Daphnia magna,5.1912
+10,CTL-M2.3,Daphnia pulicaria,0.85
+10,CTL-M2.3,Phycocyanin,50.3817
+10,CTL-M2.3,Scapholeberis mucronata,0.239451365
+10,CTL-M3.1,Chlorophyll-a,184.447225
+10,CTL-M3.1,Daphnia galeata,2.233
+10,CTL-M3.1,Daphnia magna,4.326
+10,CTL-M3.1,Daphnia pulicaria,0.39
+10,CTL-M3.1,Phycocyanin,58.39045
+10,CTL-M3.1,Scapholeberis mucronata,0.072876503
+10,CTL-M3.2,Chlorophyll-a,397.95709
+10,CTL-M3.2,Daphnia galeata,2.002
+10,CTL-M3.2,Daphnia magna,3.4608
+10,CTL-M3.2,Daphnia pulicaria,0.46
+10,CTL-M3.2,Phycocyanin,96.57445
+10,CTL-M3.2,Scapholeberis mucronata,0.09369836
+10,CTL-M3.3,Chlorophyll-a,270.140525
+10,CTL-M3.3,Daphnia galeata,2.079
+10,CTL-M3.3,Daphnia magna,2.5956
+10,CTL-M3.3,Daphnia pulicaria,1
+10,CTL-M3.3,Phycocyanin,68.58145
+10,CTL-M3.3,Scapholeberis mucronata,0.135342076
+10,CTL-M4.1,Chlorophyll-a,41.93785
+10,CTL-M4.1,Daphnia galeata,1.694
+10,CTL-M4.1,Daphnia magna,3.4608
+10,CTL-M4.1,Daphnia pulicaria,1.16
+10,CTL-M4.1,Phycocyanin,22.48545
+10,CTL-M4.1,Scapholeberis mucronata,0.114520218
+10,CTL-M4.2,Chlorophyll-a,130.137705
+10,CTL-M4.2,Daphnia galeata,1.54
+10,CTL-M4.2,Daphnia magna,4.326
+10,CTL-M4.2,Daphnia pulicaria,0.69
+10,CTL-M4.2,Phycocyanin,0
+10,CTL-M4.2,Scapholeberis mucronata,0
+10,CTL-M4.3,Chlorophyll-a,814.0704
+10,CTL-M4.3,Daphnia galeata,2.695
+10,CTL-M4.3,Daphnia magna,2.5956
+10,CTL-M4.3,Daphnia pulicaria,1.46
+10,CTL-M4.3,Phycocyanin,117.34345
+10,CTL-M4.3,Scapholeberis mucronata,0.104109289
+10,CTL-M5.1,Chlorophyll-a,300.077535
+10,CTL-M5.1,Daphnia galeata,1.386
+10,CTL-M5.1,Daphnia magna,7.7868
+10,CTL-M5.1,Daphnia pulicaria,0.69
+10,CTL-M5.1,Phycocyanin,70.5917
+10,CTL-M5.1,Scapholeberis mucronata,0.281095081
+10,CTL-M5.2,Chlorophyll-a,215.608425
+10,CTL-M5.2,Daphnia galeata,1.694
+10,CTL-M5.2,Daphnia magna,4.326
+10,CTL-M5.2,Daphnia pulicaria,0.69
+10,CTL-M5.2,Phycocyanin,94.27395
+10,CTL-M5.2,Scapholeberis mucronata,0.19780765
+10,CTL-M5.3,Chlorophyll-a,167.14163
+10,CTL-M5.3,Daphnia galeata,1.617
+10,CTL-M5.3,Daphnia magna,10.3824
+10,CTL-M5.3,Daphnia pulicaria,0.77
+10,CTL-M5.3,Phycocyanin,47.51145
+10,CTL-M5.3,Scapholeberis mucronata,0.187396721
+14,CPF-M1.1,Chlorophyll-a,149.89168
+14,CPF-M1.1,Phycocyanin,18.2134
+14,CPF-M1.2,Chlorophyll-a,553.039705
+14,CPF-M1.2,Phycocyanin,0
+14,CPF-M1.3,Chlorophyll-a,537.236525
+14,CPF-M1.3,Phycocyanin,31.6122
+14,CPF-M2.1,Chlorophyll-a,120.62241
+14,CPF-M2.1,Phycocyanin,7.19465
+14,CPF-M2.2,Chlorophyll-a,1386.65745
+14,CPF-M2.2,Phycocyanin,13.871475
+14,CPF-M2.3,Chlorophyll-a,34.06245
+14,CPF-M2.3,Phycocyanin,0
+14,CPF-M3.1,Chlorophyll-a,136.481235
+14,CPF-M3.1,Phycocyanin,15.249625
+14,CPF-M3.2,Chlorophyll-a,521.3777
+14,CPF-M3.2,Phycocyanin,39.2662
+14,CPF-M3.3,Chlorophyll-a,429.22958
+14,CPF-M3.3,Phycocyanin,31.4187
+14,CPF-M4.1,Chlorophyll-a,20.6354
+14,CPF-M4.1,Phycocyanin,0
+14,CPF-M4.2,Chlorophyll-a,676.18209
+14,CPF-M4.2,Phycocyanin,0
+14,CPF-M4.3,Chlorophyll-a,175.71096
+14,CPF-M4.3,Phycocyanin,28.9032
+14,CPF-M5.1,Chlorophyll-a,19.16679
+14,CPF-M5.1,Phycocyanin,0
+14,CPF-M5.2,Chlorophyll-a,156.45779
+14,CPF-M5.2,Phycocyanin,0
+14,CPF-M5.3,Chlorophyll-a,224.78985
+14,CPF-M5.3,Phycocyanin,0
+14,CTL-M1.1,Chlorophyll-a,77.497535
+14,CTL-M1.1,Phycocyanin,2.882825
+14,CTL-M1.2,Chlorophyll-a,28.97555
+14,CTL-M1.2,Phycocyanin,0
+14,CTL-M1.3,Chlorophyll-a,299.521085
+14,CTL-M1.3,Phycocyanin,18.70145
+14,CTL-M2.1,Chlorophyll-a,6.90415
+14,CTL-M2.1,Phycocyanin,0
+14,CTL-M2.2,Chlorophyll-a,11.70882
+14,CTL-M2.2,Phycocyanin,0
+14,CTL-M2.3,Chlorophyll-a,106.432935
+14,CTL-M2.3,Phycocyanin,12.147175
+14,CTL-M3.1,Chlorophyll-a,145.829595
+14,CTL-M3.1,Phycocyanin,0
+14,CTL-M3.2,Chlorophyll-a,1127.35175
+14,CTL-M3.2,Phycocyanin,57.83145
+14,CTL-M3.3,Chlorophyll-a,29.71915
+14,CTL-M3.3,Phycocyanin,2.263625
+14,CTL-M4.1,Chlorophyll-a,35.92145
+14,CTL-M4.1,Phycocyanin,0
+14,CTL-M4.2,Chlorophyll-a,31.88235
+14,CTL-M4.2,Phycocyanin,0
+14,CTL-M4.3,Chlorophyll-a,2202.41315
+14,CTL-M4.3,Phycocyanin,101.43345
+14,CTL-M5.1,Chlorophyll-a,164.081155
+14,CTL-M5.1,Phycocyanin,15.159325
+14,CTL-M5.2,Chlorophyll-a,36.32705
+14,CTL-M5.2,Phycocyanin,26.54895
+14,CTL-M5.3,Chlorophyll-a,62.8629
+14,CTL-M5.3,Phycocyanin,8.71255
+17,CPF-M1.1,Chlorophyll-a,318.8299
+17,CPF-M1.1,Daphnia galeata,21.758
+17,CPF-M1.1,Daphnia magna,361.4064
+17,CPF-M1.1,Daphnia pulicaria,25.07
+17,CPF-M1.1,Phycocyanin,0
+17,CPF-M1.1,Scapholeberis mucronata,6.651096312
+17,CPF-M1.2,Chlorophyll-a,191.903655
+17,CPF-M1.2,Daphnia galeata,1.103666667
+17,CPF-M1.2,Daphnia magna,215.78088
+17,CPF-M1.2,Daphnia pulicaria,9.27
+17,CPF-M1.2,Phycocyanin,0
+17,CPF-M1.2,Scapholeberis mucronata,2.53679635
+17,CPF-M1.3,Chlorophyll-a,308.980735
+17,CPF-M1.3,Daphnia galeata,7.2842
+17,CPF-M1.3,Daphnia magna,532.01148
+17,CPF-M1.3,Daphnia pulicaria,55.62
+17,CPF-M1.3,Phycocyanin,0
+17,CPF-M1.3,Scapholeberis mucronata,1.343009832
+17,CPF-M2.1,Chlorophyll-a,1169.64195
+17,CPF-M2.1,Daphnia galeata,11.739
+17,CPF-M2.1,Daphnia magna,206.3108727
+17,CPF-M2.1,Daphnia pulicaria,15.35
+17,CPF-M2.1,Phycocyanin,0
+17,CPF-M2.1,Scapholeberis mucronata,2.889506003
+17,CPF-M2.2,Chlorophyll-a,7083.0361
+17,CPF-M2.2,Daphnia galeata,19.36935
+17,CPF-M2.2,Daphnia magna,119.05152
+17,CPF-M2.2,Daphnia pulicaria,3.97
+17,CPF-M2.2,Phycocyanin,55.7997
+17,CPF-M2.2,Scapholeberis mucronata,0.15668448
+17,CPF-M2.3,Chlorophyll-a,678.85305
+17,CPF-M2.3,Daphnia galeata,4.9665
+17,CPF-M2.3,Daphnia magna,249.26412
+17,CPF-M2.3,Daphnia pulicaria,18.87
+17,CPF-M2.3,Phycocyanin,0
+17,CPF-M2.3,Scapholeberis mucronata,4.655767418
+17,CPF-M3.1,Chlorophyll-a,413.53769
+17,CPF-M3.1,Daphnia galeata,1.3244
+17,CPF-M3.1,Daphnia magna,89.28864
+17,CPF-M3.1,Daphnia pulicaria,7.62
+17,CPF-M3.1,Phycocyanin,0
+17,CPF-M3.1,Scapholeberis mucronata,8.147592982
+17,CPF-M3.2,Chlorophyll-a,571.068685
+17,CPF-M3.2,Daphnia galeata,17.5483
+17,CPF-M3.2,Daphnia magna,81.84792
+17,CPF-M3.2,Daphnia pulicaria,23.18
+17,CPF-M3.2,Phycocyanin,0
+17,CPF-M3.2,Scapholeberis mucronata,9.132466859
+17,CPF-M3.3,Chlorophyll-a,1109.54535
+17,CPF-M3.3,Daphnia galeata,0
+17,CPF-M3.3,Daphnia magna,66.96648
+17,CPF-M3.3,Daphnia pulicaria,15.23
+17,CPF-M3.3,Phycocyanin,1.64765
+17,CPF-M3.3,Scapholeberis mucronata,11.41558357
+17,CPF-M4.1,Chlorophyll-a,39.5634
+17,CPF-M4.1,Daphnia galeata,18.02655556
+17,CPF-M4.1,Daphnia magna,264.5589333
+17,CPF-M4.1,Daphnia pulicaria,32.74
+17,CPF-M4.1,Phycocyanin,0
+17,CPF-M4.1,Scapholeberis mucronata,2.884984084
+17,CPF-M4.2,Chlorophyll-a,37.59455
+17,CPF-M4.2,Daphnia galeata,8.6086
+17,CPF-M4.2,Daphnia magna,131.45272
+17,CPF-M4.2,Daphnia pulicaria,26.27
+17,CPF-M4.2,Phycocyanin,0
+17,CPF-M4.2,Scapholeberis mucronata,2.298039046
+17,CPF-M4.3,Chlorophyll-a,396.84419
+17,CPF-M4.3,Daphnia galeata,9.933
+17,CPF-M4.3,Daphnia magna,219.50124
+17,CPF-M4.3,Daphnia pulicaria,4.14
+17,CPF-M4.3,Phycocyanin,0
+17,CPF-M4.3,Scapholeberis mucronata,0.917723385
+17,CPF-M5.1,Chlorophyll-a,262.684095
+17,CPF-M5.1,Daphnia galeata,36.421
+17,CPF-M5.1,Daphnia magna,271.58628
+17,CPF-M5.1,Daphnia pulicaria,46.02
+17,CPF-M5.1,Phycocyanin,0
+17,CPF-M5.1,Scapholeberis mucronata,2.64125267
+17,CPF-M5.2,Chlorophyll-a,721.755345
+17,CPF-M5.2,Daphnia galeata,20.37538462
+17,CPF-M5.2,Daphnia magna,214.6361538
+17,CPF-M5.2,Daphnia pulicaria,5.86
+17,CPF-M5.2,Phycocyanin,5.0511
+17,CPF-M5.2,Scapholeberis mucronata,2.135041272
+17,CPF-M5.3,Chlorophyll-a,920.46364
+17,CPF-M5.3,Daphnia galeata,9.6019
+17,CPF-M5.3,Daphnia magna,267.86592
+17,CPF-M5.3,Daphnia pulicaria,22.85
+17,CPF-M5.3,Phycocyanin,0
+17,CPF-M5.3,Scapholeberis mucronata,1.52207781
+17,CTL-M1.1,Chlorophyll-a,191.40285
+17,CTL-M1.1,Daphnia galeata,2.6488
+17,CTL-M1.1,Daphnia magna,332.35216
+17,CTL-M1.1,Daphnia pulicaria,5.74
+17,CTL-M1.1,Phycocyanin,0
+17,CTL-M1.1,Scapholeberis mucronata,0.955029214
+17,CTL-M1.2,Chlorophyll-a,41.32945
+17,CTL-M1.2,Daphnia galeata,16.8861
+17,CTL-M1.2,Daphnia magna,193.45872
+17,CTL-M1.2,Daphnia pulicaria,29.14
+17,CTL-M1.2,Phycocyanin,0
+17,CTL-M1.2,Scapholeberis mucronata,2.059281743
+17,CTL-M1.3,Chlorophyll-a,784.745485
+17,CTL-M1.3,Daphnia galeata,4.9665
+17,CTL-M1.3,Daphnia magna,319.3309
+17,CTL-M1.3,Daphnia pulicaria,19.87
+17,CTL-M1.3,Phycocyanin,0
+17,CTL-M1.3,Scapholeberis mucronata,1.007257374
+17,CTL-M2.1,Chlorophyll-a,236.03014
+17,CTL-M2.1,Daphnia galeata,18.98306667
+17,CTL-M2.1,Daphnia magna,148.8144
+17,CTL-M2.1,Daphnia pulicaria,16.11
+17,CTL-M2.1,Phycocyanin,0
+17,CTL-M2.1,Scapholeberis mucronata,1.760835113
+17,CTL-M2.2,Chlorophyll-a,40.18025
+17,CTL-M2.2,Daphnia galeata,32.1167
+17,CTL-M2.2,Daphnia magna,137.65332
+17,CTL-M2.2,Daphnia pulicaria,25.16
+17,CTL-M2.2,Phycocyanin,0
+17,CTL-M2.2,Scapholeberis mucronata,3.536592558
+17,CTL-M2.3,Chlorophyll-a,380.206335
+17,CTL-M2.3,Daphnia galeata,25.38433333
+17,CTL-M2.3,Daphnia magna,142.6138
+17,CTL-M2.3,Daphnia pulicaria,10.48
+17,CTL-M2.3,Phycocyanin,0
+17,CTL-M2.3,Scapholeberis mucronata,12.53475843
+17,CTL-M3.1,Chlorophyll-a,272.811485
+17,CTL-M3.1,Daphnia galeata,21.8526
+17,CTL-M3.1,Daphnia magna,126.49224
+17,CTL-M3.1,Daphnia pulicaria,7.95
+17,CTL-M3.1,Phycocyanin,0
+17,CTL-M3.1,Scapholeberis mucronata,4.476699441
+17,CTL-M3.2,Chlorophyll-a,244.2656
+17,CTL-M3.2,Daphnia galeata,17.65866667
+17,CTL-M3.2,Daphnia magna,168.65632
+17,CTL-M3.2,Daphnia pulicaria,7.06
+17,CTL-M3.2,Phycocyanin,0
+17,CTL-M3.2,Scapholeberis mucronata,1.790679776
+17,CTL-M3.3,Chlorophyll-a,984.3441
+17,CTL-M3.3,Daphnia galeata,10.5952
+17,CTL-M3.3,Daphnia magna,163.69584
+17,CTL-M3.3,Daphnia pulicaria,6.62
+17,CTL-M3.3,Phycocyanin,0
+17,CTL-M3.3,Scapholeberis mucronata,3.790272193
+17,CTL-M4.1,Chlorophyll-a,112.05308
+17,CTL-M4.1,Daphnia galeata,17.5483
+17,CTL-M4.1,Daphnia magna,305.06952
+17,CTL-M4.1,Daphnia pulicaria,9.93
+17,CTL-M4.1,Phycocyanin,0
+17,CTL-M4.1,Scapholeberis mucronata,2.014514748
+17,CTL-M4.2,Chlorophyll-a,34.40045
+17,CTL-M4.2,Daphnia galeata,19.866
+17,CTL-M4.2,Daphnia magna,200.89944
+17,CTL-M4.2,Daphnia pulicaria,33.77
+17,CTL-M4.2,Phycocyanin,0
+17,CTL-M4.2,Scapholeberis mucronata,1.11917486
+17,CTL-M4.3,Chlorophyll-a,321.50086
+17,CTL-M4.3,Daphnia galeata,24.1703
+17,CTL-M4.3,Daphnia magna,171.13656
+17,CTL-M4.3,Daphnia pulicaria,7.62
+17,CTL-M4.3,Phycocyanin,0
+17,CTL-M4.3,Scapholeberis mucronata,3.536592558
+17,CTL-M5.1,Chlorophyll-a,334.688725
+17,CTL-M5.1,Daphnia galeata,16.2239
+17,CTL-M5.1,Daphnia magna,226.94196
+17,CTL-M5.1,Daphnia pulicaria,10.93
+17,CTL-M5.1,Phycocyanin,0
+17,CTL-M5.1,Scapholeberis mucronata,6.133078234
+17,CTL-M5.2,Chlorophyll-a,587.428315
+17,CTL-M5.2,Daphnia galeata,16.555
+17,CTL-M5.2,Daphnia magna,357.15456
+17,CTL-M5.2,Daphnia pulicaria,21.19
+17,CTL-M5.2,Phycocyanin,0
+17,CTL-M5.2,Scapholeberis mucronata,9.132466859
+17,CTL-M5.3,Chlorophyll-a,360.22978
+17,CTL-M5.3,Daphnia galeata,2.6488
+17,CTL-M5.3,Daphnia magna,205.85992
+17,CTL-M5.3,Daphnia pulicaria,15.01
+17,CTL-M5.3,Phycocyanin,0
+17,CTL-M5.3,Scapholeberis mucronata,3.103844946
+21,CPF-M1.1,Chlorophyll-a,24.4548
+21,CPF-M1.1,Phycocyanin,0
+21,CPF-M1.2,Chlorophyll-a,36.6735
+21,CPF-M1.2,Phycocyanin,0
+21,CPF-M1.3,Chlorophyll-a,40.72105
+21,CPF-M1.3,Phycocyanin,0
+21,CPF-M2.1,Chlorophyll-a,41.4562
+21,CPF-M2.1,Phycocyanin,0
+21,CPF-M2.2,Chlorophyll-a,3930.74685
+21,CPF-M2.2,Phycocyanin,44.1467
+21,CPF-M2.3,Chlorophyll-a,66.64676
+21,CPF-M2.3,Phycocyanin,0
+21,CPF-M3.1,Chlorophyll-a,28.8826
+21,CPF-M3.1,Phycocyanin,0
+21,CPF-M3.2,Chlorophyll-a,33.40335
+21,CPF-M3.2,Phycocyanin,0
+21,CPF-M3.3,Chlorophyll-a,29.92195
+21,CPF-M3.3,Phycocyanin,0
+21,CPF-M4.1,Chlorophyll-a,90.963625
+21,CPF-M4.1,Phycocyanin,0
+21,CPF-M4.2,Chlorophyll-a,123.682885
+21,CPF-M4.2,Phycocyanin,0
+21,CPF-M4.3,Chlorophyll-a,725.59485
+21,CPF-M4.3,Phycocyanin,0.107175
+21,CPF-M5.1,Chlorophyll-a,43.79685
+21,CPF-M5.1,Phycocyanin,0
+21,CPF-M5.2,Chlorophyll-a,38.69305
+21,CPF-M5.2,Phycocyanin,0
+21,CPF-M5.3,Chlorophyll-a,39.2423
+21,CPF-M5.3,Phycocyanin,0
+21,CTL-M1.1,Chlorophyll-a,95.415225
+21,CTL-M1.1,Phycocyanin,0
+21,CTL-M1.2,Chlorophyll-a,128.96916
+21,CTL-M1.2,Phycocyanin,0
+21,CTL-M1.3,Chlorophyll-a,280.43485
+21,CTL-M1.3,Phycocyanin,0
+21,CTL-M2.1,Chlorophyll-a,42.61385
+21,CTL-M2.1,Phycocyanin,0
+21,CTL-M2.2,Chlorophyll-a,27.52215
+21,CTL-M2.2,Phycocyanin,0
+21,CTL-M2.3,Chlorophyll-a,25.07165
+21,CTL-M2.3,Phycocyanin,0
+21,CTL-M3.1,Chlorophyll-a,43.50955
+21,CTL-M3.1,Phycocyanin,0
+21,CTL-M3.2,Chlorophyll-a,296.68319
+21,CTL-M3.2,Phycocyanin,0.31035
+21,CTL-M3.3,Chlorophyll-a,25.1815
+21,CTL-M3.3,Phycocyanin,0
+21,CTL-M4.1,Chlorophyll-a,35.1356
+21,CTL-M4.1,Phycocyanin,0
+21,CTL-M4.2,Chlorophyll-a,169.7013
+21,CTL-M4.2,Phycocyanin,0.8586
+21,CTL-M4.3,Chlorophyll-a,494.55681
+21,CTL-M4.3,Phycocyanin,0
+21,CTL-M5.1,Chlorophyll-a,271.142135
+21,CTL-M5.1,Phycocyanin,0
+21,CTL-M5.2,Chlorophyll-a,178.326275
+21,CTL-M5.2,Phycocyanin,0
+21,CTL-M5.3,Chlorophyll-a,31.64575
+21,CTL-M5.3,Phycocyanin,0
+24,CPF-M1.1,Chlorophyll-a,17.07795
+24,CPF-M1.1,Daphnia galeata,1.9866
+24,CPF-M1.1,Daphnia magna,1592.31408
+24,CPF-M1.1,Daphnia pulicaria,27.15
+24,CPF-M1.1,Phycocyanin,0
+24,CPF-M1.1,Scapholeberis mucronata,2.596485676
+24,CPF-M1.2,Chlorophyll-a,380.37327
+24,CPF-M1.2,Daphnia galeata,2.6488
+24,CPF-M1.2,Daphnia magna,1287.24456
+24,CPF-M1.2,Daphnia pulicaria,0.66
+24,CPF-M1.2,Phycocyanin,4.8963
+24,CPF-M1.2,Scapholeberis mucronata,1.163941855
+24,CPF-M1.3,Chlorophyll-a,37.0115
+24,CPF-M1.3,Daphnia galeata,6.622
+24,CPF-M1.3,Daphnia magna,2765.4676
+24,CPF-M1.3,Daphnia pulicaria,33.11
+24,CPF-M1.3,Phycocyanin,0
+24,CPF-M1.3,Scapholeberis mucronata,3.730582867
+24,CPF-M2.1,Chlorophyll-a,151.950545
+24,CPF-M2.1,Daphnia galeata,14.5684
+24,CPF-M2.1,Daphnia magna,1056.58224
+24,CPF-M2.1,Daphnia pulicaria,24.5
+24,CPF-M2.1,Phycocyanin,0
+24,CPF-M2.1,Scapholeberis mucronata,0.984873877
+24,CPF-M2.2,Chlorophyll-a,4747.059
+24,CPF-M2.2,Daphnia galeata,13.61188889
+24,CPF-M2.2,Daphnia magna,129.5236444
+24,CPF-M2.2,Daphnia pulicaria,0.98
+24,CPF-M2.2,Phycocyanin,56.9392
+24,CPF-M2.2,Scapholeberis mucronata,0
+24,CPF-M2.3,Chlorophyll-a,121.95789
+24,CPF-M2.3,Daphnia galeata,NA
+24,CPF-M2.3,Daphnia magna,NA
+24,CPF-M2.3,Daphnia pulicaria,NA
+24,CPF-M2.3,Phycocyanin,0
+24,CPF-M2.3,Scapholeberis mucronata,NA
+24,CPF-M3.1,Chlorophyll-a,28.2235
+24,CPF-M3.1,Daphnia galeata,8.6086
+24,CPF-M3.1,Daphnia magna,1071.46368
+24,CPF-M3.1,Daphnia pulicaria,28.47
+24,CPF-M3.1,Phycocyanin,0
+24,CPF-M3.1,Scapholeberis mucronata,3.849961519
+24,CPF-M3.2,Chlorophyll-a,41.83645
+24,CPF-M3.2,Daphnia galeata,28.4746
+24,CPF-M3.2,Daphnia magna,1056.58224
+24,CPF-M3.2,Daphnia pulicaria,33.11
+24,CPF-M3.2,Phycocyanin,0
+24,CPF-M3.2,Scapholeberis mucronata,4.208097474
+24,CPF-M3.3,Chlorophyll-a,69.039495
+24,CPF-M3.3,Daphnia galeata,3.311
+24,CPF-M3.3,Daphnia magna,728.1276
+24,CPF-M3.3,Daphnia pulicaria,30.27
+24,CPF-M3.3,Phycocyanin,0
+24,CPF-M3.3,Scapholeberis mucronata,4.284840893
+24,CPF-M4.1,Chlorophyll-a,107.82406
+24,CPF-M4.1,Daphnia galeata,13.244
+24,CPF-M4.1,Daphnia magna,1218.4179
+24,CPF-M4.1,Daphnia pulicaria,38.9
+24,CPF-M4.1,Phycocyanin,1.498225
+24,CPF-M4.1,Scapholeberis mucronata,0.783422402
+24,CPF-M4.2,Chlorophyll-a,769.77698
+24,CPF-M4.2,Daphnia galeata,13.9062
+24,CPF-M4.2,Daphnia magna,1391.41464
+24,CPF-M4.2,Daphnia pulicaria,5.3
+24,CPF-M4.2,Phycocyanin,11.8322
+24,CPF-M4.2,Scapholeberis mucronata,0.447669944
+24,CPF-M4.3,Chlorophyll-a,1538.01185
+24,CPF-M4.3,Daphnia galeata,32.4478
+24,CPF-M4.3,Daphnia magna,1339.3296
+24,CPF-M4.3,Daphnia pulicaria,3.31
+24,CPF-M4.3,Phycocyanin,30.1932
+24,CPF-M4.3,Scapholeberis mucronata,0.537203933
+24,CPF-M5.1,Chlorophyll-a,79.389465
+24,CPF-M5.1,Daphnia galeata,23.177
+24,CPF-M5.1,Daphnia magna,997.05648
+24,CPF-M5.1,Daphnia pulicaria,39.73
+24,CPF-M5.1,Phycocyanin,0
+24,CPF-M5.1,Scapholeberis mucronata,1.163941855
+24,CPF-M5.2,Chlorophyll-a,120.121605
+24,CPF-M5.2,Daphnia galeata,NA
+24,CPF-M5.2,Daphnia magna,NA
+24,CPF-M5.2,Daphnia pulicaria,NA
+24,CPF-M5.2,Phycocyanin,4.005125
+24,CPF-M5.2,Scapholeberis mucronata,NA
+24,CPF-M5.3,Chlorophyll-a,232.413215
+24,CPF-M5.3,Daphnia galeata,7.9464
+24,CPF-M5.3,Daphnia magna,1361.65176
+24,CPF-M5.3,Daphnia pulicaria,38.41
+24,CPF-M5.3,Phycocyanin,0
+24,CPF-M5.3,Scapholeberis mucronata,0.626737922
+24,CTL-M1.1,Chlorophyll-a,247.214785
+24,CTL-M1.1,Daphnia galeata,2.6488
+24,CTL-M1.1,Daphnia magna,1510.46616
+24,CTL-M1.1,Daphnia pulicaria,0
+24,CTL-M1.1,Phycocyanin,12.6535
+24,CTL-M1.1,Scapholeberis mucronata,0.716271911
+24,CTL-M1.2,Chlorophyll-a,107.49019
+24,CTL-M1.2,Daphnia galeata,9.381166667
+24,CTL-M1.2,Daphnia magna,1227.7188
+24,CTL-M1.2,Daphnia pulicaria,8.83
+24,CTL-M1.2,Phycocyanin,6.75175
+24,CTL-M1.2,Scapholeberis mucronata,1.492233147
+24,CTL-M1.3,Chlorophyll-a,624.487885
+24,CTL-M1.3,Daphnia galeata,2.6488
+24,CTL-M1.3,Daphnia magna,1398.85536
+24,CTL-M1.3,Daphnia pulicaria,9.93
+24,CTL-M1.3,Phycocyanin,9.60265
+24,CTL-M1.3,Scapholeberis mucronata,0.089533989
+24,CTL-M2.1,Chlorophyll-a,387.662765
+24,CTL-M2.1,Daphnia galeata,17.501
+24,CTL-M2.1,Daphnia magna,1036.386
+24,CTL-M2.1,Daphnia pulicaria,19.39
+24,CTL-M2.1,Phycocyanin,0.9618
+24,CTL-M2.1,Scapholeberis mucronata,1.215104134
+24,CTL-M2.2,Chlorophyll-a,44.47285
+24,CTL-M2.2,Daphnia galeata,9.46
+24,CTL-M2.2,Daphnia magna,823.794
+24,CTL-M2.2,Daphnia pulicaria,8.04
+24,CTL-M2.2,Phycocyanin,1.584225
+24,CTL-M2.2,Scapholeberis mucronata,0.831387039
+24,CTL-M2.3,Chlorophyll-a,34.4596
+24,CTL-M2.3,Daphnia galeata,11.03666667
+24,CTL-M2.3,Daphnia magna,2046.198
+24,CTL-M2.3,Daphnia pulicaria,28.7
+24,CTL-M2.3,Phycocyanin,0
+24,CTL-M2.3,Scapholeberis mucronata,3.432136238
+24,CTL-M3.1,Chlorophyll-a,32.57525
+24,CTL-M3.1,Daphnia galeata,21.1904
+24,CTL-M3.1,Daphnia magna,1428.61824
+24,CTL-M3.1,Daphnia pulicaria,45.69
+24,CTL-M3.1,Phycocyanin,0
+24,CTL-M3.1,Scapholeberis mucronata,1.611611799
+24,CTL-M3.2,Chlorophyll-a,770.33343
+24,CTL-M3.2,Daphnia galeata,26.488
+24,CTL-M3.2,Daphnia magna,1934.5872
+24,CTL-M3.2,Daphnia pulicaria,8.83
+24,CTL-M3.2,Phycocyanin,18.78745
+24,CTL-M3.2,Scapholeberis mucronata,0.447669944
+24,CTL-M3.3,Chlorophyll-a,39.1747
+24,CTL-M3.3,Daphnia galeata,1.419
+24,CTL-M3.3,Daphnia magna,1334.0148
+24,CTL-M3.3,Daphnia pulicaria,0
+24,CTL-M3.3,Phycocyanin,0
+24,CTL-M3.3,Scapholeberis mucronata,5.180180781
+24,CTL-M4.1,Chlorophyll-a,89.739435
+24,CTL-M4.1,Daphnia galeata,4.13875
+24,CTL-M4.1,Daphnia magna,1488.144
+24,CTL-M4.1,Daphnia pulicaria,1.66
+24,CTL-M4.1,Phycocyanin,0
+24,CTL-M4.1,Scapholeberis mucronata,2.574102178
+24,CTL-M4.2,Chlorophyll-a,128.690935
+24,CTL-M4.2,Daphnia galeata,12.5818
+24,CTL-M4.2,Daphnia magna,1197.95592
+24,CTL-M4.2,Daphnia pulicaria,22.51
+24,CTL-M4.2,Phycocyanin,17.48025
+24,CTL-M4.2,Scapholeberis mucronata,1.880213765
+24,CTL-M4.3,Chlorophyll-a,199.97218
+24,CTL-M4.3,Daphnia galeata,6.2909
+24,CTL-M4.3,Daphnia magna,1149.59124
+24,CTL-M4.3,Daphnia pulicaria,9.27
+24,CTL-M4.3,Phycocyanin,0
+24,CTL-M4.3,Scapholeberis mucronata,1.11917486
+24,CTL-M5.1,Chlorophyll-a,169.534365
+24,CTL-M5.1,Daphnia galeata,2.48325
+24,CTL-M5.1,Daphnia magna,1683.4629
+24,CTL-M5.1,Daphnia pulicaria,14.9
+24,CTL-M5.1,Phycocyanin,5.41875
+24,CTL-M5.1,Scapholeberis mucronata,4.029029497
+24,CTL-M5.2,Chlorophyll-a,44.4982
+24,CTL-M5.2,Daphnia galeata,41.0564
+24,CTL-M5.2,Daphnia magna,2075.96088
+24,CTL-M5.2,Daphnia pulicaria,42.38
+24,CTL-M5.2,Phycocyanin,1.521875
+24,CTL-M5.2,Scapholeberis mucronata,0.984873877
+24,CTL-M5.3,Chlorophyll-a,125.96433
+24,CTL-M5.3,Daphnia galeata,1.3244
+24,CTL-M5.3,Daphnia magna,1577.43264
+24,CTL-M5.3,Daphnia pulicaria,14.57
+24,CTL-M5.3,Phycocyanin,4.033075
+24,CTL-M5.3,Scapholeberis mucronata,1.074407866
+28,CPF-M1.1,Chlorophyll-a,43.18
+28,CPF-M1.1,Phycocyanin,6.778625
+28,CPF-M1.2,Chlorophyll-a,380.0394
+28,CPF-M1.2,Phycocyanin,20.4967
+28,CPF-M1.3,Chlorophyll-a,45.01365
+28,CPF-M1.3,Phycocyanin,1.205825
+28,CPF-M2.1,Chlorophyll-a,299.521085
+28,CPF-M2.1,Phycocyanin,18.27145
+28,CPF-M2.2,Chlorophyll-a,3181.2087
+28,CPF-M2.2,Phycocyanin,46.2537
+28,CPF-M2.3,Chlorophyll-a,397.790155
+28,CPF-M2.3,Phycocyanin,15.731225
+28,CPF-M3.1,Chlorophyll-a,176.93515
+28,CPF-M3.1,Phycocyanin,5.927225
+28,CPF-M3.2,Chlorophyll-a,376.81199
+28,CPF-M3.2,Phycocyanin,20.67945
+28,CPF-M3.3,Chlorophyll-a,81.4483300000001
+28,CPF-M3.3,Phycocyanin,0
+28,CPF-M4.1,Chlorophyll-a,339.251615
+28,CPF-M4.1,Phycocyanin,14.4423
+28,CPF-M4.2,Chlorophyll-a,351.77174
+28,CPF-M4.2,Phycocyanin,13.30495
+28,CPF-M4.3,Chlorophyll-a,515.59062
+28,CPF-M4.3,Phycocyanin,24.72145
+28,CPF-M5.1,Chlorophyll-a,241.70593
+28,CPF-M5.1,Phycocyanin,12.6449
+28,CPF-M5.2,Chlorophyll-a,474.07945
+28,CPF-M5.2,Phycocyanin,35.36395
+28,CPF-M5.3,Chlorophyll-a,317.82829
+28,CPF-M5.3,Phycocyanin,17.842525
+28,CTL-M1.1,Chlorophyll-a,263.351835
+28,CTL-M1.1,Phycocyanin,23.3132
+28,CTL-M1.2,Chlorophyll-a,214.88504
+28,CTL-M1.2,Phycocyanin,19.03255
+28,CTL-M1.3,Chlorophyll-a,126.2982
+28,CTL-M1.3,Phycocyanin,9.685425
+28,CTL-M2.1,Chlorophyll-a,226.79307
+28,CTL-M2.1,Phycocyanin,10.199275
+28,CTL-M2.2,Chlorophyll-a,104.37407
+28,CTL-M2.2,Phycocyanin,9.8585
+28,CTL-M2.3,Chlorophyll-a,40.38305
+28,CTL-M2.3,Phycocyanin,3.3268
+28,CTL-M3.1,Chlorophyll-a,277.87518
+28,CTL-M3.1,Phycocyanin,15.41625
+28,CTL-M3.2,Chlorophyll-a,390.890175
+28,CTL-M3.2,Phycocyanin,21.06645
+28,CTL-M3.3,Chlorophyll-a,565.33725
+28,CTL-M3.3,Phycocyanin,31.53695
+28,CTL-M4.1,Chlorophyll-a,183.334325
+28,CTL-M4.1,Phycocyanin,10.390625
+28,CTL-M4.2,Chlorophyll-a,120.7337
+28,CTL-M4.2,Phycocyanin,11.3033
+28,CTL-M4.3,Chlorophyll-a,280.156625
+28,CTL-M4.3,Phycocyanin,8.547
+28,CTL-M5.1,Chlorophyll-a,159.184395
+28,CTL-M5.1,Phycocyanin,10.7486
+28,CTL-M5.2,Chlorophyll-a,38.7522
+28,CTL-M5.2,Phycocyanin,3.138675
+28,CTL-M5.3,Chlorophyll-a,108.04664
+28,CTL-M5.3,Phycocyanin,9.64995
+31,CPF-M1.1,Chlorophyll-a,85.3434800000001
+31,CPF-M1.1,Daphnia galeata,0
+31,CPF-M1.1,Daphnia magna,2641.4556
+31,CPF-M1.1,Daphnia pulicaria,0
+31,CPF-M1.1,Phycocyanin,7.329025
+31,CPF-M1.1,Scapholeberis mucronata,0
+31,CPF-M1.2,Chlorophyll-a,163.46906
+31,CPF-M1.2,Daphnia galeata,1.6555
+31,CPF-M1.2,Daphnia magna,2976.288
+31,CPF-M1.2,Daphnia pulicaria,29.8
+31,CPF-M1.2,Phycocyanin,12.95665
+31,CPF-M1.2,Scapholeberis mucronata,0.223834972
+31,CPF-M1.3,Chlorophyll-a,160.90939
+31,CPF-M1.3,Daphnia galeata,0
+31,CPF-M1.3,Daphnia magna,5487.531
+31,CPF-M1.3,Daphnia pulicaria,6.62
+31,CPF-M1.3,Phycocyanin,6.4099
+31,CPF-M1.3,Scapholeberis mucronata,0.447669944
+31,CPF-M2.1,Chlorophyll-a,204.64636
+31,CPF-M2.1,Daphnia galeata,0
+31,CPF-M2.1,Daphnia magna,4222.6086
+31,CPF-M2.1,Daphnia pulicaria,0
+31,CPF-M2.1,Phycocyanin,6.9345
+31,CPF-M2.1,Scapholeberis mucronata,0.223834972
+31,CPF-M2.2,Chlorophyll-a,709.179575
+31,CPF-M2.2,Daphnia galeata,94.6946
+31,CPF-M2.2,Daphnia magna,416.68032
+31,CPF-M2.2,Daphnia pulicaria,0
+31,CPF-M2.2,Phycocyanin,28.52695
+31,CPF-M2.2,Scapholeberis mucronata,0.089533989
+31,CPF-M2.3,Chlorophyll-a,396.120805
+31,CPF-M2.3,Daphnia galeata,0
+31,CPF-M2.3,Daphnia magna,5022.486
+31,CPF-M2.3,Daphnia pulicaria,0
+31,CPF-M2.3,Phycocyanin,27.2477
+31,CPF-M2.3,Scapholeberis mucronata,0
+31,CPF-M3.1,Chlorophyll-a,410.75544
+31,CPF-M3.1,Daphnia galeata,1.6555
+31,CPF-M3.1,Daphnia magna,3608.7492
+31,CPF-M3.1,Daphnia pulicaria,0
+31,CPF-M3.1,Phycocyanin,18.8713
+31,CPF-M3.1,Scapholeberis mucronata,0
+31,CPF-M3.2,Chlorophyll-a,189.95608
+31,CPF-M3.2,Daphnia galeata,0
+31,CPF-M3.2,Daphnia magna,3999.387
+31,CPF-M3.2,Daphnia pulicaria,0
+31,CPF-M3.2,Phycocyanin,10.637875
+31,CPF-M3.2,Scapholeberis mucronata,0.223834972
+31,CPF-M3.3,Chlorophyll-a,263.240545
+31,CPF-M3.3,Daphnia galeata,0
+31,CPF-M3.3,Daphnia magna,3385.5276
+31,CPF-M3.3,Daphnia pulicaria,0
+31,CPF-M3.3,Phycocyanin,7.071025
+31,CPF-M3.3,Scapholeberis mucronata,0.149223315
+31,CPF-M4.1,Chlorophyll-a,115.336135
+31,CPF-M4.1,Daphnia galeata,0
+31,CPF-M4.1,Daphnia magna,2616.6532
+31,CPF-M4.1,Daphnia pulicaria,0
+31,CPF-M4.1,Phycocyanin,5.11775
+31,CPF-M4.1,Scapholeberis mucronata,0
+31,CPF-M4.2,Chlorophyll-a,67.147565
+31,CPF-M4.2,Daphnia galeata,0
+31,CPF-M4.2,Daphnia magna,3776.1654
+31,CPF-M4.2,Daphnia pulicaria,0
+31,CPF-M4.2,Phycocyanin,0
+31,CPF-M4.2,Scapholeberis mucronata,0.223834972
+31,CPF-M4.3,Chlorophyll-a,412.591725
+31,CPF-M4.3,Daphnia galeata,0
+31,CPF-M4.3,Daphnia magna,1962.4899
+31,CPF-M4.3,Daphnia pulicaria,0
+31,CPF-M4.3,Phycocyanin,28.3872
+31,CPF-M4.3,Scapholeberis mucronata,0
+31,CPF-M5.1,Chlorophyll-a,142.43525
+31,CPF-M5.1,Daphnia galeata,0
+31,CPF-M5.1,Daphnia magna,2852.276
+31,CPF-M5.1,Daphnia pulicaria,0
+31,CPF-M5.1,Phycocyanin,14.39285
+31,CPF-M5.1,Scapholeberis mucronata,0
+31,CPF-M5.2,Chlorophyll-a,161.35455
+31,CPF-M5.2,Daphnia galeata,0
+31,CPF-M5.2,Daphnia magna,3664.5546
+31,CPF-M5.2,Daphnia pulicaria,0
+31,CPF-M5.2,Phycocyanin,13.31355
+31,CPF-M5.2,Scapholeberis mucronata,0
+31,CPF-M5.3,Chlorophyll-a,162.300515
+31,CPF-M5.3,Daphnia galeata,0
+31,CPF-M5.3,Daphnia magna,2467.8388
+31,CPF-M5.3,Daphnia pulicaria,0
+31,CPF-M5.3,Phycocyanin,11.291475
+31,CPF-M5.3,Scapholeberis mucronata,0.298446629
+31,CTL-M1.1,Chlorophyll-a,122.18047
+31,CTL-M1.1,Daphnia galeata,0
+31,CTL-M1.1,Daphnia magna,4408.6266
+31,CTL-M1.1,Daphnia pulicaria,0
+31,CTL-M1.1,Phycocyanin,3.312825
+31,CTL-M1.1,Scapholeberis mucronata,0.447669944
+31,CTL-M1.2,Chlorophyll-a,35.6933
+31,CTL-M1.2,Daphnia galeata,0
+31,CTL-M1.2,Daphnia magna,4631.8482
+31,CTL-M1.2,Daphnia pulicaria,0
+31,CTL-M1.2,Phycocyanin,14.372425
+31,CTL-M1.2,Scapholeberis mucronata,0
+31,CTL-M1.3,Chlorophyll-a,45.0559
+31,CTL-M1.3,Daphnia galeata,0
+31,CTL-M1.3,Daphnia magna,3273.9168
+31,CTL-M1.3,Daphnia pulicaria,9.93
+31,CTL-M1.3,Phycocyanin,8.806075
+31,CTL-M1.3,Scapholeberis mucronata,0
+31,CTL-M2.1,Chlorophyll-a,309.48154
+31,CTL-M2.1,Daphnia galeata,16.555
+31,CTL-M2.1,Daphnia magna,3720.36
+31,CTL-M2.1,Daphnia pulicaria,18.21
+31,CTL-M2.1,Phycocyanin,15.464625
+31,CTL-M2.1,Scapholeberis mucronata,0.447669944
+31,CTL-M2.2,Chlorophyll-a,36.39465
+31,CTL-M2.2,Daphnia galeata,0
+31,CTL-M2.2,Daphnia magna,3236.7132
+31,CTL-M2.2,Daphnia pulicaria,13.24
+31,CTL-M2.2,Phycocyanin,0
+31,CTL-M2.2,Scapholeberis mucronata,1.11917486
+31,CTL-M2.3,Chlorophyll-a,260.9591
+31,CTL-M2.3,Daphnia galeata,4.414666667
+31,CTL-M2.3,Daphnia magna,2765.4676
+31,CTL-M2.3,Daphnia pulicaria,13.24
+31,CTL-M2.3,Phycocyanin,7.316125
+31,CTL-M2.3,Scapholeberis mucronata,0.298446629
+31,CTL-M3.1,Chlorophyll-a,170.8142
+31,CTL-M3.1,Daphnia galeata,0
+31,CTL-M3.1,Daphnia magna,3063.0964
+31,CTL-M3.1,Daphnia pulicaria,18.76
+31,CTL-M3.1,Phycocyanin,11.613975
+31,CTL-M3.1,Scapholeberis mucronata,0.149223315
+31,CTL-M3.2,Chlorophyll-a,40.60275
+31,CTL-M3.2,Daphnia galeata,0
+31,CTL-M3.2,Daphnia magna,3887.7762
+31,CTL-M3.2,Daphnia pulicaria,6.62
+31,CTL-M3.2,Phycocyanin,8.793175
+31,CTL-M3.2,Scapholeberis mucronata,0.447669944
+31,CTL-M3.3,Chlorophyll-a,321.61215
+31,CTL-M3.3,Daphnia galeata,0
+31,CTL-M3.3,Daphnia magna,5059.6896
+31,CTL-M3.3,Daphnia pulicaria,0
+31,CTL-M3.3,Phycocyanin,8.9297
+31,CTL-M3.3,Scapholeberis mucronata,0.223834972
+31,CTL-M4.1,Chlorophyll-a,33.09915
+31,CTL-M4.1,Daphnia galeata,0
+31,CTL-M4.1,Daphnia magna,4110.9978
+31,CTL-M4.1,Daphnia pulicaria,0
+31,CTL-M4.1,Phycocyanin,0
+31,CTL-M4.1,Scapholeberis mucronata,0.895339888
+31,CTL-M4.2,Chlorophyll-a,29.0516
+31,CTL-M4.2,Daphnia galeata,0
+31,CTL-M4.2,Daphnia magna,3515.7402
+31,CTL-M4.2,Daphnia pulicaria,23.18
+31,CTL-M4.2,Phycocyanin,0
+31,CTL-M4.2,Scapholeberis mucronata,0.447669944
+31,CTL-M4.3,Chlorophyll-a,146.052175
+31,CTL-M4.3,Daphnia galeata,1.419
+31,CTL-M4.3,Daphnia magna,1211.7744
+31,CTL-M4.3,Daphnia pulicaria,6.15
+31,CTL-M4.3,Phycocyanin,7.718175
+31,CTL-M4.3,Scapholeberis mucronata,0.831387039
+31,CTL-M5.1,Chlorophyll-a,65.589505
+31,CTL-M5.1,Daphnia galeata,0
+31,CTL-M5.1,Daphnia magna,2815.0724
+31,CTL-M5.1,Daphnia pulicaria,9.93
+31,CTL-M5.1,Phycocyanin,10.4003
+31,CTL-M5.1,Scapholeberis mucronata,0.895339888
+31,CTL-M5.2,Chlorophyll-a,31.0627
+31,CTL-M5.2,Daphnia galeata,0
+31,CTL-M5.2,Daphnia magna,2901.8808
+31,CTL-M5.2,Daphnia pulicaria,14.9
+31,CTL-M5.2,Phycocyanin,0
+31,CTL-M5.2,Scapholeberis mucronata,0.895339888
+31,CTL-M5.3,Chlorophyll-a,163.747285
+31,CTL-M5.3,Daphnia galeata,0
+31,CTL-M5.3,Daphnia magna,2167.1097
+31,CTL-M5.3,Daphnia pulicaria,9.11
+31,CTL-M5.3,Phycocyanin,12.58685
+31,CTL-M5.3,Scapholeberis mucronata,0.671504916
+35,CPF-M1.1,Chlorophyll-a,43.99965
+35,CPF-M1.1,Phycocyanin,6.5948
+35,CPF-M1.2,Chlorophyll-a,171.14807
+35,CPF-M1.2,Phycocyanin,23.2702
+35,CPF-M1.3,Chlorophyll-a,37.34105
+35,CPF-M1.3,Phycocyanin,7.7214
+35,CPF-M2.1,Chlorophyll-a,35.3384
+35,CPF-M2.1,Phycocyanin,8.5126
+35,CPF-M2.2,Chlorophyll-a,153.619895
+35,CPF-M2.2,Phycocyanin,20.4537
+35,CPF-M2.3,Chlorophyll-a,120.900635
+35,CPF-M2.3,Phycocyanin,8.0525
+35,CPF-M3.1,Chlorophyll-a,38.0762
+35,CPF-M3.1,Phycocyanin,5.5628
+35,CPF-M3.2,Chlorophyll-a,45.4953
+35,CPF-M3.2,Phycocyanin,7.0248
+35,CPF-M3.3,Chlorophyll-a,222.508405
+35,CPF-M3.3,Phycocyanin,13.224325
+35,CPF-M4.1,Chlorophyll-a,66.924985
+35,CPF-M4.1,Phycocyanin,14.150975
+35,CPF-M4.2,Chlorophyll-a,137.76107
+35,CPF-M4.2,Phycocyanin,9.9445
+35,CPF-M4.3,Chlorophyll-a,286.054995
+35,CPF-M4.3,Phycocyanin,22.7327
+35,CPF-M5.1,Chlorophyll-a,87.068475
+35,CPF-M5.1,Phycocyanin,9.762825
+35,CPF-M5.2,Chlorophyll-a,45.4953
+35,CPF-M5.2,Phycocyanin,15.05935
+35,CPF-M5.3,Chlorophyll-a,41.7435
+35,CPF-M5.3,Phycocyanin,13.914475
+35,CTL-M1.1,Chlorophyll-a,44.1264
+35,CTL-M1.1,Phycocyanin,9.565025
+35,CTL-M1.2,Chlorophyll-a,134.0885
+35,CTL-M1.2,Phycocyanin,13.51995
+35,CTL-M1.3,Chlorophyll-a,37.64525
+35,CTL-M1.3,Phycocyanin,8.655575
+35,CTL-M2.1,Chlorophyll-a,531.3938
+35,CTL-M2.1,Phycocyanin,38.91145
+35,CTL-M2.2,Chlorophyll-a,42.335
+35,CTL-M2.2,Phycocyanin,10.831375
+35,CTL-M2.3,Chlorophyll-a,77.55318
+35,CTL-M2.3,Phycocyanin,10.4691
+35,CTL-M3.1,Chlorophyll-a,40.82245
+35,CTL-M3.1,Phycocyanin,9.773575
+35,CTL-M3.2,Chlorophyll-a,108.04664
+35,CTL-M3.2,Phycocyanin,16.623475
+35,CTL-M3.3,Chlorophyll-a,93.1337800000001
+35,CTL-M3.3,Phycocyanin,2.123875
+35,CTL-M4.1,Chlorophyll-a,42.79975
+35,CTL-M4.1,Phycocyanin,6.610925
+35,CTL-M4.2,Chlorophyll-a,93.523295
+35,CTL-M4.2,Phycocyanin,13.82955
+35,CTL-M4.3,Chlorophyll-a,34.41735
+35,CTL-M4.3,Phycocyanin,0
+35,CTL-M5.1,Chlorophyll-a,158.68359
+35,CTL-M5.1,Phycocyanin,18.169325
+35,CTL-M5.2,Chlorophyll-a,32.5837
+35,CTL-M5.2,Phycocyanin,7.012975
+35,CTL-M5.3,Chlorophyll-a,43.5687
+35,CTL-M5.3,Phycocyanin,8.7921
+38,CPF-M1.1,Chlorophyll-a,36.2172
+38,CPF-M1.1,Daphnia galeata,0
+38,CPF-M1.1,Daphnia magna,1999.6935
+38,CPF-M1.1,Daphnia pulicaria,0
+38,CPF-M1.1,Phycocyanin,2.34425
+38,CPF-M1.1,Scapholeberis mucronata,0.111917486
+38,CPF-M1.2,Chlorophyll-a,34.4596
+38,CPF-M1.2,Daphnia galeata,0
+38,CPF-M1.2,Daphnia magna,1990.3926
+38,CPF-M1.2,Daphnia pulicaria,0
+38,CPF-M1.2,Phycocyanin,7.279575
+38,CPF-M1.2,Scapholeberis mucronata,0
+38,CPF-M1.3,Chlorophyll-a,26.0096
+38,CPF-M1.3,Daphnia galeata,0
+38,CPF-M1.3,Daphnia magna,2111.3043
+38,CPF-M1.3,Daphnia pulicaria,0
+38,CPF-M1.3,Phycocyanin,4.9565
+38,CPF-M1.3,Scapholeberis mucronata,0.55958743
+38,CPF-M2.1,Chlorophyll-a,30.5726
+38,CPF-M2.1,Daphnia galeata,0
+38,CPF-M2.1,Daphnia magna,2315.9241
+38,CPF-M2.1,Daphnia pulicaria,0
+38,CPF-M2.1,Phycocyanin,12.041825
+38,CPF-M2.1,Scapholeberis mucronata,0
+38,CPF-M2.2,Chlorophyll-a,152.061835
+38,CPF-M2.2,Daphnia galeata,68.97916667
+38,CPF-M2.2,Daphnia magna,923.8894
+38,CPF-M2.2,Daphnia pulicaria,2.76
+38,CPF-M2.2,Phycocyanin,14.262775
+38,CPF-M2.2,Scapholeberis mucronata,0.074611657
+38,CPF-M2.3,Chlorophyll-a,96.416835
+38,CPF-M2.3,Daphnia galeata,0
+38,CPF-M2.3,Daphnia magna,1999.6935
+38,CPF-M2.3,Daphnia pulicaria,0
+38,CPF-M2.3,Phycocyanin,21.5932
+38,CPF-M2.3,Scapholeberis mucronata,0.335752458
+38,CPF-M3.1,Chlorophyll-a,24.46325
+38,CPF-M3.1,Daphnia galeata,0
+38,CPF-M3.1,Daphnia magna,2381.0304
+38,CPF-M3.1,Daphnia pulicaria,0
+38,CPF-M3.1,Phycocyanin,5.075825
+38,CPF-M3.1,Scapholeberis mucronata,0.746116573
+38,CPF-M3.2,Chlorophyll-a,36.8763
+38,CPF-M3.2,Daphnia galeata,0
+38,CPF-M3.2,Daphnia magna,1763.45064
+38,CPF-M3.2,Daphnia pulicaria,0
+38,CPF-M3.2,Phycocyanin,9.046875
+38,CPF-M3.2,Scapholeberis mucronata,0.089533989
+38,CPF-M3.3,Chlorophyll-a,39.01415
+38,CPF-M3.3,Daphnia galeata,0
+38,CPF-M3.3,Daphnia magna,2715.8628
+38,CPF-M3.3,Daphnia pulicaria,0
+38,CPF-M3.3,Phycocyanin,3.637475
+38,CPF-M3.3,Scapholeberis mucronata,0
+38,CPF-M4.1,Chlorophyll-a,31.9584
+38,CPF-M4.1,Daphnia galeata,0
+38,CPF-M4.1,Daphnia magna,2241.5169
+38,CPF-M4.1,Daphnia pulicaria,0
+38,CPF-M4.1,Phycocyanin,8.6846
+38,CPF-M4.1,Scapholeberis mucronata,0
+38,CPF-M4.2,Chlorophyll-a,32.8034
+38,CPF-M4.2,Daphnia galeata,0
+38,CPF-M4.2,Daphnia magna,1543.9494
+38,CPF-M4.2,Daphnia pulicaria,0
+38,CPF-M4.2,Phycocyanin,6.142225
+38,CPF-M4.2,Scapholeberis mucronata,0
+38,CPF-M4.3,Chlorophyll-a,164.47067
+38,CPF-M4.3,Daphnia galeata,0
+38,CPF-M4.3,Daphnia magna,682.066
+38,CPF-M4.3,Daphnia pulicaria,0
+38,CPF-M4.3,Phycocyanin,20.70095
+38,CPF-M4.3,Scapholeberis mucronata,0
+38,CPF-M5.1,Chlorophyll-a,42.0815
+38,CPF-M5.1,Daphnia galeata,0
+38,CPF-M5.1,Daphnia magna,1500.5452
+38,CPF-M5.1,Daphnia pulicaria,0
+38,CPF-M5.1,Phycocyanin,10.654
+38,CPF-M5.1,Scapholeberis mucronata,0
+38,CPF-M5.2,Chlorophyll-a,33.53855
+38,CPF-M5.2,Daphnia galeata,0
+38,CPF-M5.2,Daphnia magna,1562.5512
+38,CPF-M5.2,Daphnia pulicaria,0
+38,CPF-M5.2,Phycocyanin,11.054975
+38,CPF-M5.2,Scapholeberis mucronata,0
+38,CPF-M5.3,Chlorophyll-a,36.082
+38,CPF-M5.3,Daphnia galeata,0
+38,CPF-M5.3,Daphnia magna,1696.48416
+38,CPF-M5.3,Daphnia pulicaria,0
+38,CPF-M5.3,Phycocyanin,16.199925
+38,CPF-M5.3,Scapholeberis mucronata,0.179067978
+38,CTL-M1.1,Chlorophyll-a,32.37245
+38,CTL-M1.1,Daphnia galeata,0
+38,CTL-M1.1,Daphnia magna,1550.15
+38,CTL-M1.1,Daphnia pulicaria,0
+38,CTL-M1.1,Phycocyanin,10.2928
+38,CTL-M1.1,Scapholeberis mucronata,0.298446629
+38,CTL-M1.2,Chlorophyll-a,35.95525
+38,CTL-M1.2,Daphnia galeata,0
+38,CTL-M1.2,Daphnia magna,1137.3672
+38,CTL-M1.2,Daphnia pulicaria,5.68
+38,CTL-M1.2,Phycocyanin,50.103275
+38,CTL-M1.2,Scapholeberis mucronata,0.639528492
+38,CTL-M1.3,Chlorophyll-a,30.3867
+38,CTL-M1.3,Daphnia galeata,0
+38,CTL-M1.3,Daphnia magna,2016.43512
+38,CTL-M1.3,Daphnia pulicaria,0
+38,CTL-M1.3,Phycocyanin,10.07995
+38,CTL-M1.3,Scapholeberis mucronata,0.179067978
+38,CTL-M2.1,Chlorophyll-a,401.574015
+38,CTL-M2.1,Daphnia galeata,0
+38,CTL-M2.1,Daphnia magna,744.072
+38,CTL-M2.1,Daphnia pulicaria,3.01
+38,CTL-M2.1,Phycocyanin,49.4142
+38,CTL-M2.1,Scapholeberis mucronata,0.122091803
+38,CTL-M2.2,Chlorophyll-a,36.0482
+38,CTL-M2.2,Daphnia galeata,0
+38,CTL-M2.2,Daphnia magna,1438.5392
+38,CTL-M2.2,Daphnia pulicaria,3.31
+38,CTL-M2.2,Phycocyanin,13.75
+38,CTL-M2.2,Scapholeberis mucronata,0.373058287
+38,CTL-M2.3,Chlorophyll-a,43.8729
+38,CTL-M2.3,Daphnia galeata,0
+38,CTL-M2.3,Daphnia magna,1494.3446
+38,CTL-M2.3,Daphnia pulicaria,0
+38,CTL-M2.3,Phycocyanin,21.02345
+38,CTL-M2.3,Scapholeberis mucronata,0.671504916
+38,CTL-M3.1,Chlorophyll-a,30.6909
+38,CTL-M3.1,Daphnia galeata,0
+38,CTL-M3.1,Daphnia magna,2027.5962
+38,CTL-M3.1,Daphnia pulicaria,0
+38,CTL-M3.1,Phycocyanin,14.37565
+38,CTL-M3.1,Scapholeberis mucronata,0.223834972
+38,CTL-M3.2,Chlorophyll-a,36.7073
+38,CTL-M3.2,Daphnia galeata,0
+38,CTL-M3.2,Daphnia magna,1592.31408
+38,CTL-M3.2,Daphnia pulicaria,0
+38,CTL-M3.2,Phycocyanin,16.761075
+38,CTL-M3.2,Scapholeberis mucronata,0.268601966
+38,CTL-M3.3,Chlorophyll-a,41.4731
+38,CTL-M3.3,Daphnia galeata,0
+38,CTL-M3.3,Daphnia magna,1964.35008
+38,CTL-M3.3,Daphnia pulicaria,0
+38,CTL-M3.3,Phycocyanin,7.449425
+38,CTL-M3.3,Scapholeberis mucronata,1.432543821
+38,CTL-M4.1,Chlorophyll-a,35.66795
+38,CTL-M4.1,Daphnia galeata,0
+38,CTL-M4.1,Daphnia magna,1882.50216
+38,CTL-M4.1,Daphnia pulicaria,0
+38,CTL-M4.1,Phycocyanin,12.590075
+38,CTL-M4.1,Scapholeberis mucronata,0.447669944
+38,CTL-M4.2,Chlorophyll-a,96.528125
+38,CTL-M4.2,Daphnia galeata,0
+38,CTL-M4.2,Daphnia magna,1581.153
+38,CTL-M4.2,Daphnia pulicaria,0
+38,CTL-M4.2,Phycocyanin,30.7522
+38,CTL-M4.2,Scapholeberis mucronata,0.373058287
+38,CTL-M4.3,Chlorophyll-a,39.13245
+38,CTL-M4.3,Daphnia galeata,1.839444444
+38,CTL-M4.3,Daphnia magna,723.4033333
+38,CTL-M4.3,Daphnia pulicaria,0.74
+38,CTL-M4.3,Phycocyanin,9.13825
+38,CTL-M4.3,Scapholeberis mucronata,1.094304308
+38,CTL-M5.1,Chlorophyll-a,107.545835
+38,CTL-M5.1,Daphnia galeata,0
+38,CTL-M5.1,Daphnia magna,1364.132
+38,CTL-M5.1,Daphnia pulicaria,0
+38,CTL-M5.1,Phycocyanin,28.7957
+38,CTL-M5.1,Scapholeberis mucronata,0.820728231
+38,CTL-M5.2,Chlorophyll-a,30.8599
+38,CTL-M5.2,Daphnia galeata,0
+38,CTL-M5.2,Daphnia magna,930.09
+38,CTL-M5.2,Daphnia pulicaria,1.24
+38,CTL-M5.2,Phycocyanin,11.1958
+38,CTL-M5.2,Scapholeberis mucronata,0.615546173
+38,CTL-M5.3,Chlorophyll-a,39.4113
+38,CTL-M5.3,Daphnia galeata,0
+38,CTL-M5.3,Daphnia magna,2157.8088
+38,CTL-M5.3,Daphnia pulicaria,0
+38,CTL-M5.3,Phycocyanin,12.5288
+38,CTL-M5.3,Scapholeberis mucronata,0.783422402
+42,CPF-M1.1,Chlorophyll-a,72.65642
+42,CPF-M1.1,Phycocyanin,8.846925
+42,CPF-M1.2,Chlorophyll-a,42.86735
+42,CPF-M1.2,Phycocyanin,5.535925
+42,CPF-M1.3,Chlorophyll-a,19.4693
+42,CPF-M1.3,Phycocyanin,3.136525
+42,CPF-M2.1,Chlorophyll-a,29.9135
+42,CPF-M2.1,Phycocyanin,6.671125
+42,CPF-M2.2,Chlorophyll-a,209.598765
+42,CPF-M2.2,Phycocyanin,18.4843
+42,CPF-M2.3,Chlorophyll-a,127.74497
+42,CPF-M2.3,Phycocyanin,17.2631
+42,CPF-M3.1,Chlorophyll-a,33.9695
+42,CPF-M3.1,Phycocyanin,11.807475
+42,CPF-M3.2,Chlorophyll-a,35.05955
+42,CPF-M3.2,Phycocyanin,7.017275
+42,CPF-M3.3,Chlorophyll-a,37.7044
+42,CPF-M3.3,Phycocyanin,3.29025
+42,CPF-M4.1,Chlorophyll-a,33.9864
+42,CPF-M4.1,Phycocyanin,2.44745
+42,CPF-M4.2,Chlorophyll-a,36.80025
+42,CPF-M4.2,Phycocyanin,5.36715
+42,CPF-M4.3,Chlorophyll-a,44.8024
+42,CPF-M4.3,Phycocyanin,15.148575
+42,CPF-M5.1,Chlorophyll-a,143.381215
+42,CPF-M5.1,Phycocyanin,13.095325
+42,CPF-M5.2,Chlorophyll-a,35.3046
+42,CPF-M5.2,Phycocyanin,11.6989
+42,CPF-M5.3,Chlorophyll-a,35.66795
+42,CPF-M5.3,Phycocyanin,9.89505
+42,CTL-M1.1,Chlorophyll-a,40.0535
+42,CTL-M1.1,Phycocyanin,15.486125
+42,CTL-M1.2,Chlorophyll-a,131.75141
+42,CTL-M1.2,Phycocyanin,15.88065
+42,CTL-M1.3,Chlorophyll-a,91.853945
+42,CTL-M1.3,Phycocyanin,8.40295
+42,CTL-M2.1,Chlorophyll-a,341.254835
+42,CTL-M2.1,Phycocyanin,41.64195
+42,CTL-M2.2,Chlorophyll-a,38.2283
+42,CTL-M2.2,Phycocyanin,9.150075
+42,CTL-M2.3,Chlorophyll-a,39.79155
+42,CTL-M2.3,Phycocyanin,15.694675
+42,CTL-M3.1,Chlorophyll-a,30.6233
+42,CTL-M3.1,Phycocyanin,9.86495
+42,CTL-M3.2,Chlorophyll-a,162.69003
+42,CTL-M3.2,Phycocyanin,29.689025
+42,CTL-M3.3,Chlorophyll-a,102.649075
+42,CTL-M3.3,Phycocyanin,13.940275
+42,CTL-M4.1,Chlorophyll-a,33.9695
+42,CTL-M4.1,Phycocyanin,1.668075
+42,CTL-M4.2,Chlorophyll-a,39.52115
+42,CTL-M4.2,Phycocyanin,15.256075
+42,CTL-M4.3,Chlorophyll-a,31.35
+42,CTL-M4.3,Phycocyanin,2.6818
+42,CTL-M5.1,Chlorophyll-a,116.50468
+42,CTL-M5.1,Phycocyanin,21.92645
+42,CTL-M5.2,Chlorophyll-a,23.7788
+42,CTL-M5.2,Phycocyanin,9.431725
+42,CTL-M5.3,Chlorophyll-a,94.1910349999999
+42,CTL-M5.3,Phycocyanin,12.011725
+45,CPF-M1.1,Chlorophyll-a,138.76268
+45,CPF-M1.1,Daphnia galeata,0
+45,CPF-M1.1,Daphnia magna,1962.4899
+45,CPF-M1.1,Daphnia pulicaria,0
+45,CPF-M1.1,Phycocyanin,34.8157
+45,CPF-M1.1,Scapholeberis mucronata,0
+45,CPF-M1.2,Chlorophyll-a,43.57715
+45,CPF-M1.2,Daphnia galeata,0
+45,CPF-M1.2,Daphnia magna,2405.8328
+45,CPF-M1.2,Daphnia pulicaria,0
+45,CPF-M1.2,Phycocyanin,5.417675
+45,CPF-M1.2,Scapholeberis mucronata,0
+45,CPF-M1.3,Chlorophyll-a,19.51155
+45,CPF-M1.3,Daphnia galeata,0
+45,CPF-M1.3,Daphnia magna,1413.7368
+45,CPF-M1.3,Daphnia pulicaria,0
+45,CPF-M1.3,Phycocyanin,5.045725
+45,CPF-M1.3,Scapholeberis mucronata,0.149223315
+45,CPF-M2.1,Chlorophyll-a,34.28215
+45,CPF-M2.1,Daphnia galeata,0
+45,CPF-M2.1,Daphnia magna,1233.9194
+45,CPF-M2.1,Daphnia pulicaria,0
+45,CPF-M2.1,Phycocyanin,6.34325
+45,CPF-M2.1,Scapholeberis mucronata,0.074611657
+45,CPF-M2.2,Chlorophyll-a,192.348815
+45,CPF-M2.2,Daphnia galeata,0
+45,CPF-M2.2,Daphnia magna,706.8684
+45,CPF-M2.2,Daphnia pulicaria,0
+45,CPF-M2.2,Phycocyanin,17.782325
+45,CPF-M2.2,Scapholeberis mucronata,0
+45,CPF-M2.3,Chlorophyll-a,220.393895
+45,CPF-M2.3,Daphnia galeata,0
+45,CPF-M2.3,Daphnia magna,1110.7932
+45,CPF-M2.3,Daphnia pulicaria,0
+45,CPF-M2.3,Phycocyanin,39.19095
+45,CPF-M2.3,Scapholeberis mucronata,0
+45,CPF-M3.1,Chlorophyll-a,89.850725
+45,CPF-M3.1,Daphnia galeata,0
+45,CPF-M3.1,Daphnia magna,1793.21352
+45,CPF-M3.1,Daphnia pulicaria,0
+45,CPF-M3.1,Phycocyanin,26.9037
+45,CPF-M3.1,Scapholeberis mucronata,0.089533989
+45,CPF-M3.2,Chlorophyll-a,119.787735
+45,CPF-M3.2,Daphnia galeata,0
+45,CPF-M3.2,Daphnia magna,1927.14648
+45,CPF-M3.2,Daphnia pulicaria,0
+45,CPF-M3.2,Phycocyanin,11.61935
+45,CPF-M3.2,Scapholeberis mucronata,0
+45,CPF-M3.3,Chlorophyll-a,87.068475
+45,CPF-M3.3,Daphnia galeata,0
+45,CPF-M3.3,Daphnia magna,822.19956
+45,CPF-M3.3,Daphnia pulicaria,0
+45,CPF-M3.3,Phycocyanin,12.87925
+45,CPF-M3.3,Scapholeberis mucronata,0.044766994
+45,CPF-M4.1,Chlorophyll-a,210.65602
+45,CPF-M4.1,Daphnia galeata,0
+45,CPF-M4.1,Daphnia magna,1517.90688
+45,CPF-M4.1,Daphnia pulicaria,0
+45,CPF-M4.1,Phycocyanin,6.9216
+45,CPF-M4.1,Scapholeberis mucronata,0.179067978
+45,CPF-M4.2,Chlorophyll-a,95.4708699999999
+45,CPF-M4.2,Daphnia galeata,0
+45,CPF-M4.2,Daphnia magna,1443.49968
+45,CPF-M4.2,Daphnia pulicaria,0
+45,CPF-M4.2,Phycocyanin,15.307675
+45,CPF-M4.2,Scapholeberis mucronata,0
+45,CPF-M4.3,Chlorophyll-a,40.0704
+45,CPF-M4.3,Daphnia galeata,0
+45,CPF-M4.3,Daphnia magna,375.2710957
+45,CPF-M4.3,Daphnia pulicaria,0
+45,CPF-M4.3,Phycocyanin,10.781925
+45,CPF-M4.3,Scapholeberis mucronata,0.019463911
+45,CPF-M5.1,Chlorophyll-a,319.553285
+45,CPF-M5.1,Daphnia galeata,0
+45,CPF-M5.1,Daphnia magna,1540.22904
+45,CPF-M5.1,Daphnia pulicaria,0
+45,CPF-M5.1,Phycocyanin,15.46785
+45,CPF-M5.1,Scapholeberis mucronata,0
+45,CPF-M5.2,Chlorophyll-a,45.09815
+45,CPF-M5.2,Daphnia galeata,0
+45,CPF-M5.2,Daphnia magna,1562.5512
+45,CPF-M5.2,Daphnia pulicaria,0
+45,CPF-M5.2,Phycocyanin,12.299825
+45,CPF-M5.2,Scapholeberis mucronata,0
+45,CPF-M5.3,Chlorophyll-a,62.0838699999999
+45,CPF-M5.3,Daphnia galeata,0
+45,CPF-M5.3,Daphnia magna,1636.9584
+45,CPF-M5.3,Daphnia pulicaria,0
+45,CPF-M5.3,Phycocyanin,12.8341
+45,CPF-M5.3,Scapholeberis mucronata,0.089533989
+45,CTL-M1.1,Chlorophyll-a,42.24205
+45,CTL-M1.1,Daphnia galeata,0
+45,CTL-M1.1,Daphnia magna,1395.135
+45,CTL-M1.1,Daphnia pulicaria,0
+45,CTL-M1.1,Phycocyanin,8.70395
+45,CTL-M1.1,Scapholeberis mucronata,0.298446629
+45,CTL-M1.2,Chlorophyll-a,69.373365
+45,CTL-M1.2,Daphnia galeata,0
+45,CTL-M1.2,Daphnia magna,1031.0712
+45,CTL-M1.2,Daphnia pulicaria,0.47
+45,CTL-M1.2,Phycocyanin,10.74645
+45,CTL-M1.2,Scapholeberis mucronata,1.087198436
+45,CTL-M1.3,Chlorophyll-a,169.03356
+45,CTL-M1.3,Daphnia galeata,0
+45,CTL-M1.3,Daphnia magna,1815.53568
+45,CTL-M1.3,Daphnia pulicaria,0
+45,CTL-M1.3,Phycocyanin,6.103525
+45,CTL-M1.3,Scapholeberis mucronata,0.179067978
+45,CTL-M2.1,Chlorophyll-a,275.87196
+45,CTL-M2.1,Daphnia galeata,0
+45,CTL-M2.1,Daphnia magna,292.314
+45,CTL-M2.1,Daphnia pulicaria,0
+45,CTL-M2.1,Phycocyanin,35.3747
+45,CTL-M2.1,Scapholeberis mucronata,0.031976425
+45,CTL-M2.2,Chlorophyll-a,34.89055
+45,CTL-M2.2,Daphnia galeata,0
+45,CTL-M2.2,Daphnia magna,999.1824
+45,CTL-M2.2,Daphnia pulicaria,0.47
+45,CTL-M2.2,Phycocyanin,2.0841
+45,CTL-M2.2,Scapholeberis mucronata,0.447669944
+45,CTL-M2.3,Chlorophyll-a,32.4485
+45,CTL-M2.3,Daphnia galeata,0
+45,CTL-M2.3,Daphnia magna,1370.3326
+45,CTL-M2.3,Daphnia pulicaria,0
+45,CTL-M2.3,Phycocyanin,9.5833
+45,CTL-M2.3,Scapholeberis mucronata,0.596893259
+45,CTL-M3.1,Chlorophyll-a,37.9917
+45,CTL-M3.1,Daphnia galeata,0
+45,CTL-M3.1,Daphnia magna,1934.5872
+45,CTL-M3.1,Daphnia pulicaria,0
+45,CTL-M3.1,Phycocyanin,11.7462
+45,CTL-M3.1,Scapholeberis mucronata,0.111917486
+45,CTL-M3.2,Chlorophyll-a,166.58518
+45,CTL-M3.2,Daphnia galeata,0
+45,CTL-M3.2,Daphnia magna,1463.3416
+45,CTL-M3.2,Daphnia pulicaria,0
+45,CTL-M3.2,Phycocyanin,16.82665
+45,CTL-M3.2,Scapholeberis mucronata,0.223834972
+45,CTL-M3.3,Chlorophyll-a,276.5397
+45,CTL-M3.3,Daphnia galeata,0
+45,CTL-M3.3,Daphnia magna,981.24495
+45,CTL-M3.3,Daphnia pulicaria,0
+45,CTL-M3.3,Phycocyanin,27.77445
+45,CTL-M3.3,Scapholeberis mucronata,0.839381145
+45,CTL-M4.1,Chlorophyll-a,41.0168
+45,CTL-M4.1,Daphnia galeata,0
+45,CTL-M4.1,Daphnia magna,1569.99192
+45,CTL-M4.1,Daphnia pulicaria,0
+45,CTL-M4.1,Phycocyanin,1.074675
+45,CTL-M4.1,Scapholeberis mucronata,1.343009832
+45,CTL-M4.2,Chlorophyll-a,41.21115
+45,CTL-M4.2,Daphnia galeata,0
+45,CTL-M4.2,Daphnia magna,1599.7548
+45,CTL-M4.2,Daphnia pulicaria,0
+45,CTL-M4.2,Phycocyanin,11.433375
+45,CTL-M4.2,Scapholeberis mucronata,0.522281601
+45,CTL-M4.3,Chlorophyll-a,29.5586
+45,CTL-M4.3,Daphnia galeata,0.882933333
+45,CTL-M4.3,Daphnia magna,540.69232
+45,CTL-M4.3,Daphnia pulicaria,0
+45,CTL-M4.3,Phycocyanin,7.528975
+45,CTL-M4.3,Scapholeberis mucronata,0.955029214
+45,CTL-M5.1,Chlorophyll-a,145.607015
+45,CTL-M5.1,Daphnia galeata,0
+45,CTL-M5.1,Daphnia magna,1109.9074
+45,CTL-M5.1,Daphnia pulicaria,0.55
+45,CTL-M5.1,Phycocyanin,20.29245
+45,CTL-M5.1,Scapholeberis mucronata,0.447669944
+45,CTL-M5.2,Chlorophyll-a,20.55935
+45,CTL-M5.2,Daphnia galeata,0
+45,CTL-M5.2,Daphnia magna,1289.7248
+45,CTL-M5.2,Daphnia pulicaria,1.1
+45,CTL-M5.2,Phycocyanin,3.10535
+45,CTL-M5.2,Scapholeberis mucronata,1.268398175
+45,CTL-M5.3,Chlorophyll-a,264.464735
+45,CTL-M5.3,Daphnia galeata,0
+45,CTL-M5.3,Daphnia magna,1388.9344
+45,CTL-M5.3,Daphnia pulicaria,0
+45,CTL-M5.3,Phycocyanin,15.120625
+45,CTL-M5.3,Scapholeberis mucronata,0.373058287
+49,CPF-M1.1,Chlorophyll-a,215.385845
+49,CPF-M1.1,Phycocyanin,0
+49,CPF-M1.2,Chlorophyll-a,105.542615
+49,CPF-M1.2,Phycocyanin,13.523175
+49,CPF-M1.3,Chlorophyll-a,22.0719
+49,CPF-M1.3,Phycocyanin,0
+49,CPF-M2.1,Chlorophyll-a,41.95475
+49,CPF-M2.1,Phycocyanin,4.546925
+49,CPF-M2.2,Chlorophyll-a,108.82567
+49,CPF-M2.2,Phycocyanin,9.388725
+49,CPF-M2.3,Chlorophyll-a,227.293875
+49,CPF-M2.3,Phycocyanin,4.579175
+49,CPF-M3.1,Chlorophyll-a,22.0888
+49,CPF-M3.1,Phycocyanin,0
+49,CPF-M3.2,Chlorophyll-a,44.74325
+49,CPF-M3.2,Phycocyanin,6.071275
+49,CPF-M3.3,Chlorophyll-a,251.555095
+49,CPF-M3.3,Phycocyanin,12.84055
+49,CPF-M4.1,Chlorophyll-a,99.14344
+49,CPF-M4.1,Phycocyanin,7.174225
+49,CPF-M4.2,Chlorophyll-a,149.11265
+49,CPF-M4.2,Phycocyanin,6.5088
+49,CPF-M4.3,Chlorophyll-a,103.70633
+49,CPF-M4.3,Phycocyanin,14.209025
+49,CPF-M5.1,Chlorophyll-a,773.839065
+49,CPF-M5.1,Phycocyanin,31.49395
+49,CPF-M5.2,Chlorophyll-a,136.036075
+49,CPF-M5.2,Phycocyanin,14.9497
+49,CPF-M5.3,Chlorophyll-a,107.545835
+49,CPF-M5.3,Phycocyanin,14.286425
+49,CTL-M1.1,Chlorophyll-a,266.07844
+49,CTL-M1.1,Phycocyanin,30.16095
+49,CTL-M1.2,Chlorophyll-a,132.41915
+49,CTL-M1.2,Phycocyanin,13.3458
+49,CTL-M1.3,Chlorophyll-a,363.12332
+49,CTL-M1.3,Phycocyanin,12.49225
+49,CTL-M2.1,Chlorophyll-a,206.260065
+49,CTL-M2.1,Phycocyanin,37.2237
+49,CTL-M2.2,Chlorophyll-a,30.73315
+49,CTL-M2.2,Phycocyanin,0
+49,CTL-M2.3,Chlorophyll-a,67.42579
+49,CTL-M2.3,Phycocyanin,12.089125
+49,CTL-M3.1,Chlorophyll-a,42.6054
+49,CTL-M3.1,Phycocyanin,6.4314
+49,CTL-M3.2,Chlorophyll-a,278.375985
+49,CTL-M3.2,Phycocyanin,20.9912
+49,CTL-M3.3,Chlorophyll-a,937.04585
+49,CTL-M3.3,Phycocyanin,42.78145
+49,CTL-M4.1,Chlorophyll-a,41.2196
+49,CTL-M4.1,Phycocyanin,0
+49,CTL-M4.2,Chlorophyll-a,44.4813
+49,CTL-M4.2,Phycocyanin,7.4677
+49,CTL-M4.3,Chlorophyll-a,40.07885
+49,CTL-M4.3,Phycocyanin,10.646475
+49,CTL-M5.1,Chlorophyll-a,247.437365
+49,CTL-M5.1,Phycocyanin,29.4407
+49,CTL-M5.2,Chlorophyll-a,40.1211
+49,CTL-M5.2,Phycocyanin,7.9493
+49,CTL-M5.3,Chlorophyll-a,480.256045
+49,CTL-M5.3,Phycocyanin,12.1375
+52,CPF-M1.1,Chlorophyll-a,398.06838
+52,CPF-M1.1,Daphnia galeata,0
+52,CPF-M1.1,Daphnia magna,1196.7158
+52,CPF-M1.1,Daphnia pulicaria,0
+52,CPF-M1.1,Phycocyanin,11.76555
+52,CPF-M1.1,Scapholeberis mucronata,0.074611657
+52,CPF-M1.2,Chlorophyll-a,287.279185
+52,CPF-M1.2,Daphnia galeata,0
+52,CPF-M1.2,Daphnia magna,1622.07696
+52,CPF-M1.2,Daphnia pulicaria,0
+52,CPF-M1.2,Phycocyanin,21.36745
+52,CPF-M1.2,Scapholeberis mucronata,0
+52,CPF-M1.3,Chlorophyll-a,35.9806
+52,CPF-M1.3,Daphnia galeata,0
+52,CPF-M1.3,Daphnia magna,647.9627
+52,CPF-M1.3,Daphnia pulicaria,0
+52,CPF-M1.3,Phycocyanin,0
+52,CPF-M1.3,Scapholeberis mucronata,0.037305829
+52,CPF-M2.1,Chlorophyll-a,231.46725
+52,CPF-M2.1,Daphnia galeata,0
+52,CPF-M2.1,Daphnia magna,1271.123
+52,CPF-M2.1,Daphnia pulicaria,0
+52,CPF-M2.1,Phycocyanin,19.487275
+52,CPF-M2.1,Scapholeberis mucronata,0
+52,CPF-M2.2,Chlorophyll-a,242.874475
+52,CPF-M2.2,Daphnia galeata,0
+52,CPF-M2.2,Daphnia magna,726.9011077
+52,CPF-M2.2,Daphnia pulicaria,0
+52,CPF-M2.2,Phycocyanin,18.571375
+52,CPF-M2.2,Scapholeberis mucronata,0.03443615
+52,CPF-M2.3,Chlorophyll-a,465.84399
+52,CPF-M2.3,Daphnia galeata,0
+52,CPF-M2.3,Daphnia magna,1351.7308
+52,CPF-M2.3,Daphnia pulicaria,0
+52,CPF-M2.3,Phycocyanin,16.718075
+52,CPF-M2.3,Scapholeberis mucronata,0
+52,CPF-M3.1,Chlorophyll-a,66.257245
+52,CPF-M3.1,Daphnia galeata,0
+52,CPF-M3.1,Daphnia magna,963.1598667
+52,CPF-M3.1,Daphnia pulicaria,0
+52,CPF-M3.1,Phycocyanin,7.535425
+52,CPF-M3.1,Scapholeberis mucronata,0
+52,CPF-M3.2,Chlorophyll-a,346.09595
+52,CPF-M3.2,Daphnia galeata,0
+52,CPF-M3.2,Daphnia magna,1062.96
+52,CPF-M3.2,Daphnia pulicaria,0
+52,CPF-M3.2,Phycocyanin,34.2567
+52,CPF-M3.2,Scapholeberis mucronata,0.063952849
+52,CPF-M3.3,Chlorophyll-a,593.883135
+52,CPF-M3.3,Daphnia galeata,0
+52,CPF-M3.3,Daphnia magna,938.3574667
+52,CPF-M3.3,Daphnia pulicaria,0
+52,CPF-M3.3,Phycocyanin,27.2477
+52,CPF-M3.3,Scapholeberis mucronata,0.19896442
+52,CPF-M4.1,Chlorophyll-a,358.727365
+52,CPF-M4.1,Daphnia galeata,0
+52,CPF-M4.1,Daphnia magna,1064.95305
+52,CPF-M4.1,Daphnia pulicaria,0
+52,CPF-M4.1,Phycocyanin,19.4346
+52,CPF-M4.1,Scapholeberis mucronata,0
+52,CPF-M4.2,Chlorophyll-a,326.06375
+52,CPF-M4.2,Daphnia galeata,0
+52,CPF-M4.2,Daphnia magna,1314.5272
+52,CPF-M4.2,Daphnia pulicaria,0
+52,CPF-M4.2,Phycocyanin,20.7547
+52,CPF-M4.2,Scapholeberis mucronata,0
+52,CPF-M4.3,Chlorophyll-a,178.660145
+52,CPF-M4.3,Daphnia galeata,0
+52,CPF-M4.3,Daphnia magna,547.4244
+52,CPF-M4.3,Daphnia pulicaria,0
+52,CPF-M4.3,Phycocyanin,22.1737
+52,CPF-M4.3,Scapholeberis mucronata,0.031976425
+52,CPF-M5.1,Chlorophyll-a,1593.1004
+52,CPF-M5.1,Daphnia galeata,0
+52,CPF-M5.1,Daphnia magna,1314.5272
+52,CPF-M5.1,Daphnia pulicaria,0
+52,CPF-M5.1,Phycocyanin,74.2897
+52,CPF-M5.1,Scapholeberis mucronata,0.074611657
+52,CPF-M5.2,Chlorophyll-a,471.63107
+52,CPF-M5.2,Daphnia galeata,0
+52,CPF-M5.2,Daphnia magna,876.3514667
+52,CPF-M5.2,Daphnia pulicaria,0
+52,CPF-M5.2,Phycocyanin,42.9427
+52,CPF-M5.2,Scapholeberis mucronata,0
+52,CPF-M5.3,Chlorophyll-a,469.73914
+52,CPF-M5.3,Daphnia galeata,0
+52,CPF-M5.3,Daphnia magna,1196.7158
+52,CPF-M5.3,Daphnia pulicaria,0
+52,CPF-M5.3,Phycocyanin,31.75195
+52,CPF-M5.3,Scapholeberis mucronata,0
+52,CTL-M1.1,Chlorophyll-a,861.36865
+52,CTL-M1.1,Daphnia galeata,0
+52,CTL-M1.1,Daphnia magna,1488.144
+52,CTL-M1.1,Daphnia pulicaria,0
+52,CTL-M1.1,Phycocyanin,73.8167
+52,CTL-M1.1,Scapholeberis mucronata,0.447669944
+52,CTL-M1.2,Chlorophyll-a,352.99593
+52,CTL-M1.2,Daphnia galeata,0
+52,CTL-M1.2,Daphnia magna,848.24208
+52,CTL-M1.2,Daphnia pulicaria,0
+52,CTL-M1.2,Phycocyanin,19.975325
+52,CTL-M1.2,Scapholeberis mucronata,0.537203933
+52,CTL-M1.3,Chlorophyll-a,1007.715
+52,CTL-M1.3,Daphnia galeata,0
+52,CTL-M1.3,Daphnia magna,1295.9254
+52,CTL-M1.3,Daphnia pulicaria,0
+52,CTL-M1.3,Phycocyanin,44.15745
+52,CTL-M1.3,Scapholeberis mucronata,0.373058287
+52,CTL-M2.1,Chlorophyll-a,452.099675
+52,CTL-M2.1,Daphnia galeata,0
+52,CTL-M2.1,Daphnia magna,353.4342
+52,CTL-M2.1,Daphnia pulicaria,0
+52,CTL-M2.1,Phycocyanin,46.58695
+52,CTL-M2.1,Scapholeberis mucronata,0.018652914
+52,CTL-M2.2,Chlorophyll-a,355.166085
+52,CTL-M2.2,Daphnia galeata,0
+52,CTL-M2.2,Daphnia magna,728.5705
+52,CTL-M2.2,Daphnia pulicaria,0.28
+52,CTL-M2.2,Phycocyanin,16.316025
+52,CTL-M2.2,Scapholeberis mucronata,0.335752458
+52,CTL-M2.3,Chlorophyll-a,741.231095
+52,CTL-M2.3,Daphnia galeata,0
+52,CTL-M2.3,Daphnia magna,1064.95305
+52,CTL-M2.3,Daphnia pulicaria,0
+52,CTL-M2.3,Phycocyanin,57.8637
+52,CTL-M2.3,Scapholeberis mucronata,0.503628687
+52,CTL-M3.1,Chlorophyll-a,766.88344
+52,CTL-M3.1,Daphnia galeata,0
+52,CTL-M3.1,Daphnia magna,1351.7308
+52,CTL-M3.1,Daphnia pulicaria,0
+52,CTL-M3.1,Phycocyanin,58.7022
+52,CTL-M3.1,Scapholeberis mucronata,0.074611657
+52,CTL-M3.2,Chlorophyll-a,582.92107
+52,CTL-M3.2,Daphnia galeata,0
+52,CTL-M3.2,Daphnia magna,814.3454667
+52,CTL-M3.2,Daphnia pulicaria,0
+52,CTL-M3.2,Phycocyanin,38.58895
+52,CTL-M3.2,Scapholeberis mucronata,0.348187734
+52,CTL-M3.3,Chlorophyll-a,904.77175
+52,CTL-M3.3,Daphnia galeata,0
+52,CTL-M3.3,Daphnia magna,1376.5332
+52,CTL-M3.3,Daphnia pulicaria,0
+52,CTL-M3.3,Phycocyanin,31.9992
+52,CTL-M3.3,Scapholeberis mucronata,0.596893259
+52,CTL-M4.1,Chlorophyll-a,283.829195
+52,CTL-M4.1,Daphnia galeata,0
+52,CTL-M4.1,Daphnia magna,807.31812
+52,CTL-M4.1,Daphnia pulicaria,0
+52,CTL-M4.1,Phycocyanin,3.52675
+52,CTL-M4.1,Scapholeberis mucronata,0.223834972
+52,CTL-M4.2,Chlorophyll-a,297.406575
+52,CTL-M4.2,Daphnia galeata,0
+52,CTL-M4.2,Daphnia magna,764.3648727
+52,CTL-M4.2,Daphnia pulicaria,0
+52,CTL-M4.2,Phycocyanin,19.64745
+52,CTL-M4.2,Scapholeberis mucronata,0.325578141
+52,CTL-M4.3,Chlorophyll-a,187.674635
+52,CTL-M4.3,Daphnia galeata,1.1825
+52,CTL-M4.3,Daphnia magna,552.7392
+52,CTL-M4.3,Daphnia pulicaria,0.24
+52,CTL-M4.3,Phycocyanin,12.7653
+52,CTL-M4.3,Scapholeberis mucronata,0.895339888
+52,CTL-M5.1,Chlorophyll-a,453.657735
+52,CTL-M5.1,Daphnia galeata,0
+52,CTL-M5.1,Daphnia magna,1153.3116
+52,CTL-M5.1,Daphnia pulicaria,0
+52,CTL-M5.1,Phycocyanin,34.2997
+52,CTL-M5.1,Scapholeberis mucronata,0.703481341
+52,CTL-M5.2,Chlorophyll-a,598.334735
+52,CTL-M5.2,Daphnia galeata,0
+52,CTL-M5.2,Daphnia magna,1060.3026
+52,CTL-M5.2,Daphnia pulicaria,0
+52,CTL-M5.2,Phycocyanin,46.0602
+52,CTL-M5.2,Scapholeberis mucronata,0.839381145
+52,CTL-M5.3,Chlorophyll-a,1209.1499
+52,CTL-M5.3,Daphnia galeata,0
+52,CTL-M5.3,Daphnia magna,1178.114
+52,CTL-M5.3,Daphnia pulicaria,0
+52,CTL-M5.3,Phycocyanin,39.6102
+52,CTL-M5.3,Scapholeberis mucronata,0.373058287
