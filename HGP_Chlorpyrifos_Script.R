@@ -17,7 +17,7 @@ library(shinystan)
 data <- read.csv("HGP_Chlorpyrifos_Data.csv") %>%
   drop_na()
 # The drop_na function removes 8 data points
-# These correspond to two days where no zooplankton biomass was available for one mesocosm
+# These correspond to one day where no zooplankton biomass was available for two mesocosms
 
 #-------------------------------------------------------------------------------
 # METADATA FOR PLOTTING PURPOSES
@@ -48,8 +48,8 @@ data %>%
   scale_alpha_manual("", values = 0.1, labels = "> 95% probability\nof a treatment\neffect") +
   facet_wrap(~ speciesformatted, scales = "free", ncol = 2) +
   scale_x_continuous("Time (days)", breaks = c(0, seq(10, 51, by = 7)), labels = c("<span style = 'font-size:6pt'>Inoculation<br>moment</span>", seq(10, 51, by = 7)), expand = c(0,0)) +
-  scale_y_continuous("Estimated biomass (µg/L)") +
-  #scale_y_log10("Estimated biomass (µl/L)") +
+  scale_y_continuous("Estimated biomass (Âµg/L)") +
+  #scale_y_log10("Estimated biomass (Âµl/L)") +
   scale_linetype_manual("", breaks = "dashed", values = "dashed", labels = "Pesticide pulse") +
   coord_cartesian(xlim = c(0,51)) +
   theme(panel.background = element_blank(),
@@ -143,7 +143,7 @@ ggplot(plotdata) +
   scale_alpha_manual("", values = 0.15, labels = "> 95% probability\nof a treatment\neffect") +
   facet_wrap(~ speciesformatted, scales = "free", ncol = 2) +
   scale_x_continuous("Time (days)", breaks = c(0, seq(10, 51, by = 7)), labels = c("<span style = 'font-size:6pt'>Inoculation<br>moment</span>", seq(10, 51, by = 7)), expand = c(0,0)) +
-  scale_y_continuous("Estimated biomass (µg/L)") +
+  scale_y_continuous("Estimated biomass (Âµg/L)") +
   scale_linetype_manual("", breaks = "dashed", values = "dashed", labels = "Pesticide pulse") +
   coord_cartesian(xlim = c(0,60)) +
   theme(panel.background = element_blank(),
@@ -338,7 +338,7 @@ maxbiomass <- peakdata %>%
   stat_pointinterval(aes(x = maxbiomass, y = -0.15, color = factor(treatmentid)), point_alpha = 1, .width = 0.95, interval_alpha = 1, point_size = 0.75, interval_size = 0.5, position = position_dodge(width = 0.15)) +
   scale_color_manual("Treatment", labels = c("Control", "Pesticide"), values = c("#0090C8", "#CE178C")) +
   scale_fill_manual("Treatment", labels = c("Control", "Pesticide"), values = c("#0090C8", "#CE178C")) +
-  scale_x_continuous("Maximum biomass (µg/L)") +
+  scale_x_continuous("Maximum biomass (Âµg/L)") +
   scale_y_continuous("Posterior density", breaks = c(0, 0.25, 0.5, 0.75, 1)) +
   facet_wrap(~ speciesformatted, scales = "free_x", ncol = 4) +
   coord_cartesian(ylim = c(-0.25, 1)) +
@@ -372,7 +372,7 @@ AUC <- peakdata %>%
   stat_pointinterval(aes(x = AUC, y = -0.15, color = factor(treatmentid)), point_alpha = 1, .width = 0.95, interval_alpha = 1, point_size = 0.75, interval_size = 0.5, position = position_dodge(width = 0.15)) +
   scale_color_manual("Treatment", labels = c("Control", "Pesticide"), values = c("#0090C8", "#CE178C")) +
   scale_fill_manual("Treatment", labels = c("Control", "Pesticide"), values = c("#0090C8", "#CE178C")) +
-  scale_x_continuous("Cumulated biomass (µg·day/L)") +
+  scale_x_continuous("Cumulated biomass (ÂµgÂ·day/L)") +
   scale_y_continuous("Posterior density", breaks = c(0, 0.25, 0.5, 0.75, 1)) +
   facet_wrap(~ speciesformatted, scales = "free_x", ncol = 4) +
   coord_cartesian(ylim = c(-0.25, 1)) +
@@ -451,8 +451,8 @@ dynamicsplotdata %>%
   geom_path(aes(x = r, y = N, color = Treatment), alpha = 1) +
   scale_color_manual("Treatment", values = c("#0090C8", "#CE178C"),
                      guide = guide_legend(override.aes = list(alpha = 1, size = 1))) +
-  scale_x_continuous("Growth rate (µg/(L·day))") +
-  scale_y_continuous("Biomass (µg/L)") +
+  scale_x_continuous("Growth rate (Âµg/(LÂ·day))") +
+  scale_y_continuous("Biomass (Âµg/L)") +
   facet_grid(from ~ to, scales = "free") +
   theme(panel.background = element_blank(),
         panel.border = element_rect(color = "black", fill = NA),
