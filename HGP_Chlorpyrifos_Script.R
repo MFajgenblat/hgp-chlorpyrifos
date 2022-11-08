@@ -48,8 +48,7 @@ data %>%
   scale_alpha_manual("", values = 0.1, labels = "> 95% probability\nof a treatment\neffect") +
   facet_wrap(~ speciesformatted, scales = "free", ncol = 2) +
   scale_x_continuous("Time (days)", breaks = c(0, seq(10, 51, by = 7)), labels = c("<span style = 'font-size:6pt'>Inoculation<br>moment</span>", seq(10, 51, by = 7)), expand = c(0,0)) +
-  scale_y_continuous("Estimated biomass (µg/L)") +
-  #scale_y_log10("Estimated biomass (µl/L)") +
+  scale_y_log10("Estimated biomass (µg/L)") +
   scale_linetype_manual("", breaks = "dashed", values = "dashed", labels = "Pesticide pulse") +
   coord_cartesian(xlim = c(0,51)) +
   theme(panel.background = element_blank(),
