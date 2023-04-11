@@ -41,14 +41,14 @@ data %>%
          Species = factor(Species, c("Daphnia magna", "Daphnia galeata", "Daphnia pulicaria", "Scapholeberis mucronata", "Chlorophyll-a", "Phycocyanin"))) %>%
   left_join(species_metadata, by = c("Species" = "speciesname")) %>%
   ggplot() +
-  geom_line(aes(x = Day, y = Biomass, color = Treatment, group = Replicate), alpha = 0.75, size = 0.25) +
+  geom_line(aes(x = Day, y = Biomass, color = Treatment, group = Replicate), alpha = 0.75, linewidth = 0.15) +
   geom_vline(data = data.frame(x = c(10, 24, 38), type = "dashed"), aes(linetype = type, xintercept = x), color = "grey50", size = 0.3) +
   scale_color_manual("Treatment", values = c("#0090C8", "#CE178C"), guide = guide_legend(override.aes = list(alpha = 1, size = 1))) +
   scale_fill_manual("Treatment", values = c("#0090C8", "#CE178C"), guide = "none") +
   scale_alpha_manual("", values = 0.1, labels = "> 95% probability\nof a treatment\neffect") +
   facet_wrap(~ speciesformatted, scales = "free", ncol = 2) +
   scale_x_continuous("Time (days)", breaks = c(0, seq(10, 51, by = 7)), labels = c("<span style = 'font-size:6pt'>Inoculation<br>moment</span>", seq(10, 51, by = 7)), expand = c(0,0)) +
-  scale_y_log10("Estimated biomass (µg/L)") +
+  scale_y_log10("Estimated biomass (µg/L)", labels = scales::label_number()) +
   scale_linetype_manual("", breaks = "dashed", values = "dashed", labels = "Pesticide pulse") +
   coord_cartesian(xlim = c(0,51)) +
   theme(panel.background = element_blank(),
@@ -253,6 +253,98 @@ mean(VP$mix)
 quantile(VP$mix, c(0.025, 0.975))
 mean(VP$rep)
 quantile(VP$rep, c(0.025, 0.975))
+
+#-------------------------------------------------------------------------------
+# PLOTTING THE HIERARCHICAL GAUSSIAN PROCESS FITS - ALL SPECIES TOGETHER
+#-------------------------------------------------------------------------------
+
+A <- data %>%
+  mutate(Mix = paste0("Mix ",as.numeric(substr(Replicate, 6, 6))),
+         Treatment = c("Control", "Pesticide")[as.numeric(factor(substr(Replicate, 1, 3), levels = c("CTL", "CPF")))],
+         Species = factor(Species, c("Daphnia magna", "Daphnia pulicaria", "Daphnia galeata", "Scapholeberis mucronata", "Chlorophyll-a", "Phycocyanin"))) %>%
+  filter(!(Species %in% c("Chlorophyll-a", "Phycocyanin"))) %>%
+  group_by(Day, Species, Treatment) %>%
+  summarise(Median = median(Biomass),
+            Lbound = quantile(Biomass, 0.25),
+            Ubound = quantile(Biomass, 0.75)) %>%
+  left_join(species_metadata, by = c("Species" = "speciesname")) %>%
+  ggplot() +
+  geom_ribbon(aes(x = Day, ymin = Lbound, ymax = Ubound, fill = speciesformatted), alpha = 0.25) +
+  geom_line(aes(x = Day, y = Median, color = speciesformatted), alpha = 0.75, linewidth = 0.15) +
+  geom_vline(data = data.frame(x = c(10, 24, 38), type = "dashed"), aes(linetype = type, xintercept = x), color = "grey50", size = 0.3) +
+  scale_color_manual("Species", values = c("#EB4235", "#FCBC05", "#32A953", "#3E85F4"), limits = levels(species_metadata$speciesformatted)[1:4], guide = guide_legend(override.aes = list(alpha = 1, linewidth = 1, fill = NA))) +
+  scale_fill_manual("Species", values = c("#EB4235", "#FCBC05", "#32A953", "#3E85F4"), limits = levels(species_metadata$speciesformatted)[1:4], guide = "none") +
+  facet_wrap(~ Treatment, scales = "free", ncol = 2) +
+  scale_x_continuous("Time (days)", breaks = c(0, seq(10, 51, by = 7)), labels = c("<span style = 'font-size:6pt'>Inoculation<br>moment</span>", seq(10, 51, by = 7)), expand = c(0,0)) +
+  scale_y_log10("Estimated biomass (µg/L)", labels = scales::label_number()) +
+  scale_linetype_manual("", breaks = "dashed", values = "dashed", labels = "Pesticide pulse") +
+  coord_cartesian(xlim = c(0,51)) +
+  theme(panel.background = element_blank(),
+        panel.grid.major.y = element_line(color = "grey95", size = 0.3),
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.spacing.x = unit(1, "lines"),
+        strip.text.x = element_markdown(size = 9, face = "bold"),
+        strip.background = element_blank(),
+        axis.line.x = element_line(colour = "black", size = 0.3),
+        axis.title = element_text(size = 9, face = "bold"),
+        axis.text.x = element_markdown(size = 9),
+        axis.text.y = element_text(size = 9),
+        axis.ticks = element_line(size = 0.3),
+        legend.position = "right",
+        legend.key = element_blank(),
+        legend.key.width = unit(5, "mm"),
+        legend.key.height = unit(5, "mm"),
+        legend.spacing.y = unit(0.5, "mm"),
+        legend.title = element_text(size = 9, face = "bold"),
+        legend.text = element_markdown(size = 9))
+
+fit_HGP %>%
+  spread_draws(f_main[speciesid,Treatment,x]) %>%
+  filter(!(speciesid > 4 & x < 11)) %>%
+  left_join(species_metadata) %>%
+  mutate(f_main = f_main,
+         Treatment = factor(case_when(Treatment == 1 ~ "Control",
+                                      Treatment == 2 ~ "Pesticide"),
+                            levels = c("Control", "Pesticide")),
+         x = x - 1,
+         speciesformatted = droplevels(speciesformatted)) -> plotdata
+B <- plotdata %>%
+  filter(speciesid < 5) %>%
+  ggplot() +
+  stat_lineribbon(aes(x = x, y = f_main, color = speciesformatted, fill = speciesformatted), .width = c(0.5, 0.8, 0.95, 0.99), alpha = 1/5, size = 0.1) +
+  #geom_line(data = data, aes(x = Week, y = density, color = Treatment, group = Replicate), alpha = 0.6, size = 0.12) +
+  geom_vline(data = data.frame(x = c(10, 24, 38), type = "dashed"), aes(linetype = type, xintercept = x), color = "grey50", size = 0.3) +
+  scale_color_manual("Species", values = c("#EB4235", "#FCBC05", "#32A953", "#3E85F4"), limits = levels(species_metadata$speciesformatted)[1:4], guide = guide_legend(override.aes = list(alpha = 1, linewidth = 1, fill = NA))) +
+  scale_fill_manual("Species", values = c("#EB4235", "#FCBC05", "#32A953", "#3E85F4"), limits = levels(species_metadata$speciesformatted)[1:4], guide = "none") +
+  scale_x_continuous("Time (days)", breaks = c(0, seq(10, 51, by = 7)), labels = c("<span style = 'font-size:6pt'>Inoculation<br>moment</span>", seq(10, 51, by = 7)), expand = c(0,0)) +
+  scale_y_continuous("Estimated biomass (µg/L)", breaks = log(1+round(exp(0:8) - 1)), labels = round(exp(0:8) - 1), expand = c(0,0)) +
+  scale_linetype_manual("", breaks = "dashed", values = "dashed", labels = "Pesticide pulse") +
+  coord_cartesian(ylim = c(0, NA)) +
+  facet_wrap(~ Treatment, ncol = 2) +
+  theme(panel.background = element_blank(),
+        panel.grid.major.y = element_line(color = "grey95", size = 0.3),
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.spacing.x = unit(1, "lines"),
+        strip.text.x = element_markdown(size = 9, face = "bold"),
+        strip.background = element_blank(),
+        axis.line.x = element_line(colour = "black", size = 0.3),
+        axis.title = element_text(size = 9, face = "bold"),
+        axis.text.x = element_markdown(size = 9),
+        axis.text.y = element_text(size = 9),
+        axis.ticks = element_line(size = 0.3),
+        legend.position = "right",
+        legend.key = element_blank(),
+        legend.key.width = unit(5, "mm"),
+        legend.key.height = unit(5, "mm"),
+        legend.spacing.y = unit(0.5, "mm"),
+        legend.title = element_text(size = 9, face = "bold"),
+        legend.text = element_markdown(size = 9))
+
+A / B + plot_layout(guides = 'collect') + plot_annotation(tag_levels = c("a"), tag_prefix = '(', tag_suffix = ')') & 
+  theme(plot.tag = element_text(size = 9, face = "bold", hjust = 0, vjust = 0))
+ggsave("HGP_Chlorpyrifos_Figure_speciestogether.pdf", width = 17.7, height = 10, units = "cm", dpi = 600)
 
 #-------------------------------------------------------------------------------
 # DERIVED QUANTITIES
