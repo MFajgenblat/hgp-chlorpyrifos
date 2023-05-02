@@ -14,7 +14,7 @@ library(shinystan)
 # DATA READING
 #-------------------------------------------------------------------------------
 
-data <- read.csv("HGP_Chlorpyrifos_Data.csv") %>%
+data <- read.csv("https://raw.githubusercontent.com/MFajgenblat/hgp-chlorpyrifos/main/HGP_Chlorpyrifos_Data.csv") %>%
   drop_na()
 # The drop_na function removes 8 data points
 # These correspond to one day where no zooplankton biomass was available for two mesocosms
@@ -274,7 +274,7 @@ A <- data %>%
   geom_vline(data = data.frame(x = c(10, 24, 38), type = "dashed"), aes(linetype = type, xintercept = x), color = "grey50", size = 0.3) +
   scale_color_manual("Species", values = c("#EB4235", "#FCBC05", "#32A953", "#3E85F4"), limits = levels(species_metadata$speciesformatted)[1:4], guide = guide_legend(override.aes = list(alpha = 1, linewidth = 1, fill = NA))) +
   scale_fill_manual("Species", values = c("#EB4235", "#FCBC05", "#32A953", "#3E85F4"), limits = levels(species_metadata$speciesformatted)[1:4], guide = "none") +
-  facet_wrap(~ Treatment, scales = "free", ncol = 2) +
+  facet_wrap(~ Treatment, ncol = 2) +
   scale_x_continuous("Time (days)", breaks = c(0, seq(10, 51, by = 7)), labels = c("<span style = 'font-size:6pt'>Inoculation<br>moment</span>", seq(10, 51, by = 7)), expand = c(0,0)) +
   scale_y_log10("Estimated biomass (µg/L)", labels = scales::label_number()) +
   scale_linetype_manual("", breaks = "dashed", values = "dashed", labels = "Pesticide pulse") +
